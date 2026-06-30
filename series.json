@@ -1,0 +1,22 @@
+[
+  {
+    "id": "series001",
+    "title": "Demon Slayer",
+    "year": "2019",
+    "vote": "9.4",
+    "language": "JA",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "overview": "...",
+    "poster": "poster.jpg",
+    "backdrop": "backdrop.jpg",
+    "logo": "logo.png",
+    "runtime": "24",
+    "status": "Completed",
+    "season_count": 4,
+    "episode_count": 63,
+    "trailer": "youtubeid"
+  }
+]
