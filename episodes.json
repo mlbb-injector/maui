@@ -1,0 +1,20 @@
+[
+  {
+    "series_id": "series001",
+    "season": 1,
+    "episode": 1,
+    "title": "Cruelty",
+    "overview": "...",
+    "poster": "ep1.jpg",
+    "link": "https://..."
+  },
+  {
+    "series_id": "series001",
+    "season": 1,
+    "episode": 2,
+    "title": "Trainer",
+    "overview": "...",
+    "poster": "ep2.jpg",
+    "link": "https://..."
+  }
+]
