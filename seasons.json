@@ -1,0 +1,23 @@
+[
+  {
+    "series_id": "series001",
+    "season": 1,
+    "title": "Season 1",
+    "poster": "season1.jpg",
+    "episode_count": 26
+  },
+  {
+    "series_id": "series001",
+    "season": 2,
+    "title": "Mugen Train",
+    "poster": "season2.jpg",
+    "episode_count": 7
+  },
+  {
+    "series_id": "series001",
+    "season": 3,
+    "title": "Entertainment District",
+    "poster": "season3.jpg",
+    "episode_count": 11
+  }
+]
