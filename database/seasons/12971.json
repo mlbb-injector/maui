@@ -1,0 +1,101 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Saiyan Saga",
+    "overview": "After years of peace since the defeat of Piccolo Daimaoh, Goku now lives peacefully with his wife, Chi-Chi, and their son, Gohan. But everything changes when a mysterious warrior called Raditz arrives on Earth, revealing that he is Goku's brother and that they both belong to the warrior race of the Saiyans, a brutal people who conquer planets.",
+    "air_date": "1989-04-26",
+    "episode_count": "39",
+    "poster_path": "/6iyu8rF9lRGWmDC8UnNlvNlJjRB.jpg",
+    "id": "59759",
+    "vote_average": "8.2"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Namek Saga",
+    "overview": "While Goku recovers from injuries suffered during battle with the Saiyans, his friends begin their perilous quest for the Namekian Dragon Balls. Awaiting their arrival on Planet Namek is the powerful Ginyu Force – and the vile monster Frieza!",
+    "air_date": "1990-03-14",
+    "episode_count": "35",
+    "poster_path": "/nFI492Jd9cMvG5Y0wfAHbe0lpXk.jpg",
+    "id": "59760",
+    "vote_average": "8.2"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Frieza Saga",
+    "overview": "All seven Namekian Dragon Balls have been assembled, and the dragon Porunga has been summoned. Goku and his loyal friends must stop Frieza from making his wish for immortality. To defeat this monstrous foe – a Super Saiyan must emerge!",
+    "air_date": "1991-01-30",
+    "episode_count": "33",
+    "poster_path": "/qrpK9feifrOiUP0H0XJvXmW1fJq.jpg",
+    "id": "59761",
+    "vote_average": "8.3"
+  },
+  {
+    "season": "4",
+    "season_number": "4",
+    "name": "Androids Saga",
+    "overview": "After peace returns to Earth with the defeat of Freeza, a new danger approaches. A mysterious young man called Trunks appears from the future and warns Goku and the Z Warriors about the imminent arrival of two powerful androids created by the scientist Dr. Gero, a former member of the Red Ribbon Force who seeks revenge against Goku. The androids called 17 and 18 wiped out almost all of humanity in Trunks' future.",
+    "air_date": "1991-09-18",
+    "episode_count": "32",
+    "poster_path": "/iKZYlpbWwitJjza06MvaEEO56sr.jpg",
+    "id": "59762",
+    "vote_average": "8.3"
+  },
+  {
+    "season": "5",
+    "season_number": "5",
+    "name": "Cell Saga",
+    "overview": "As the battle with the Androids rages on, a fierce evil rises from the shadows: the monster known as Cell. Dr. Gero’s heinous creation is the ultimate weapon, a fighting machine built from the genetic material of the greatest warriors ever to walk the Earth!",
+    "air_date": "1992-05-20",
+    "episode_count": "26",
+    "poster_path": "/mA0rQcnMq5HIUeK4haUDJvmDuS2.jpg",
+    "id": "59763",
+    "vote_average": "8.4"
+  },
+  {
+    "season": "6",
+    "season_number": "6",
+    "name": "Cell Games Saga",
+    "overview": "Humanity nears extinction as Cell achieves his deadly perfect form! Eager to display his new power, the monster proposes a tournament. If Earth produces a worthy challenger, whether be it Goku or Mr. Satan, mankind will be spared. But if not – death comes to all!",
+    "air_date": "1992-11-25",
+    "episode_count": "29",
+    "poster_path": "/st7kFY0s6C5fYsBft5j5XdavKBf.jpg",
+    "id": "59764",
+    "vote_average": "8.3"
+  },
+  {
+    "season": "7",
+    "season_number": "7",
+    "name": "World Tournament Saga",
+    "overview": "In the seven years since Cell’s defeat, life on Earth has returned to normal. But now, the time has come for a new World Martial Arts Tournament. Goku returns from Other World to challenge Mr. Satan for his title – and to guard against the arrival of a new evil!",
+    "air_date": "1993-07-28",
+    "episode_count": "25",
+    "poster_path": "/fAEngvnTWOEVMCG13Xbm4hYoW9v.jpg",
+    "id": "59765",
+    "vote_average": "8.1"
+  },
+  {
+    "season": "8",
+    "season_number": "8",
+    "name": "Majin Buu Saga",
+    "overview": "The evil wizard Babidi embarks on a quest for vengeance, seeking to fulfill his father's thwarted dreams of universal domination. Supreme Kai enlists Goku and the Z-Fighters to stop Babidi and his vile minions, but a deadly new threat emerges – Majin Vegeta!",
+    "air_date": "1994-03-09",
+    "episode_count": "34",
+    "poster_path": "/nIq2MgdFh7hsUU314ctCBFZqsY0.jpg",
+    "id": "59766",
+    "vote_average": "8.0"
+  },
+  {
+    "season": "9",
+    "season_number": "9",
+    "name": "Kid Buu Saga",
+    "overview": "Majin Buu's rampage continues, and the only hope of defeating this terrifying foe is the Fusion Technique. For this desperate plan to succeed, two fierce rivals, Goku and Vegeta, must combine their powers in a heroic attempt to stop Majin Buu once and for all!",
+    "air_date": "1995-02-01",
+    "episode_count": "38",
+    "poster_path": "/9L8rKgp1IoTf32eSuI2BBmm6sUE.jpg",
+    "id": "59767",
+    "vote_average": "7.9"
+  }
+]
