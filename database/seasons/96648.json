@@ -1,0 +1,35 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "As humans turn into savage monsters and the world plunges into terror, a handful of survivors fight for their lives — and to hold on to their humanity.",
+    "air_date": "2020-12-18",
+    "episode_count": "10",
+    "poster_path": "/2hnEMvi6NTzRSGzzurKfyKv7Tgu.jpg",
+    "id": "149004",
+    "vote_average": "7.8"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "The stakes are higher than ever as the line between monster and human begins to blur. Can Hyun-su and the other survivors fight to stay alive?",
+    "air_date": "2023-12-01",
+    "episode_count": "8",
+    "poster_path": "/Ad0OWnM1c1sY0JOqzOVgzBus7Qd.jpg",
+    "id": "345684",
+    "vote_average": "7.6"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Season 3",
+    "overview": "The world teeters on the boundary between monsters and humans, leaving humanity with a difficult choice. As desires clash, a desperate fight ensues.",
+    "air_date": "2024-07-19",
+    "episode_count": "8",
+    "poster_path": "/53rYlKn8sC7k36qZuNqJjRdTQZg.jpg",
+    "id": "397036",
+    "vote_average": "8.2"
+  }
+]
