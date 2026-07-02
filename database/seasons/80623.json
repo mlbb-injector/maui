@@ -1,0 +1,24 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "",
+    "air_date": "2018-06-26",
+    "episode_count": "26",
+    "poster_path": "/mn4xYEFDQlvc7e74iWWXNnd1cgi.jpg",
+    "id": "105921",
+    "vote_average": "7.6"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Great Raitai Tournament / Godlike Clash of the Kids Saga",
+    "overview": "",
+    "air_date": "2020-06-04",
+    "episode_count": "13",
+    "poster_path": "/lDNyYGAoNAmlhMytcz9e3aKqpXV.jpg",
+    "id": "147639",
+    "vote_average": "7.3"
+  }
+]
