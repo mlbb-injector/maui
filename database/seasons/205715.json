@@ -1,0 +1,24 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "",
+    "air_date": "2023-09-28",
+    "episode_count": "8",
+    "poster_path": "/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg",
+    "id": "300323",
+    "vote_average": "6.9"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "As America adjusts to Homelander's reign, at Godolkin University, the new Dean preaches a course to make students more powerful than ever. Cate and Sam are heroes, while Marie, Jordan, and Emma return to class, after months of trauma. War is brewing between Humans and Supes and our crew learns of a secret program from the 60s that may be significant to today. And, somehow, Marie is a part of it.",
+    "air_date": "2025-09-17",
+    "episode_count": "8",
+    "poster_path": "/tEv842Nd5uMSavURG4aQO1pNtst.jpg",
+    "id": "458863",
+    "vote_average": "6.2"
+  }
+]
