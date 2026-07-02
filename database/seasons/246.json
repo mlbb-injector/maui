@@ -1,0 +1,35 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Book One: Water",
+    "overview": "Katara and Sokka (a brother and sister from the Southern Water Tribe) discover the Avatar (a 12-year-old Airbender boy named Aang) frozen in an iceberg. Together the three begin their journey to the North Pole to find a master waterbender so Aang can begin his Avatar training!",
+    "air_date": "2005-02-21",
+    "episode_count": "20",
+    "poster_path": "/tUG6h0rMtQyOgvqI8r9AqxlKoUP.jpg",
+    "id": "785",
+    "vote_average": "8.1"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Book Two: Earth",
+    "overview": "Aang, along with Katara, Sokka, and their animal friends Appa and Momo, continues on his quest to fulfill his destiny as the Avatar. According to the Avatar cycle, the group must now enter the Earth Kingdom to search for a master earthbender to teach Aang.",
+    "air_date": "2006-03-17",
+    "episode_count": "20",
+    "poster_path": "/quX70K1L7vTLQ9vRJcK0kKcNNFA.jpg",
+    "id": "787",
+    "vote_average": "8.3"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Book Three: Fire",
+    "overview": "Aang wakes up from his battle with Azula to discover that Ba Sing Se has fallen and the world thinks he's dead. So he and his friends set off undercover across the Fire Nation to find Fire Lord Ozai before the Day of Black Sun. Prince Zuko returns home as the triumphant son, but soon finds the honor he so greatly craved from his father is worthless. New alliances are formed and Team Avatar forges a new plan to stop the Fire Lord. But will they find him in time?",
+    "air_date": "2007-09-21",
+    "episode_count": "21",
+    "poster_path": "/roPE4jaHawj1Dm6uIXJHuLDpkNy.jpg",
+    "id": "786",
+    "vote_average": "8.5"
+  }
+]
