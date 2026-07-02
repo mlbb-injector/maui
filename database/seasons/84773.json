@@ -1,0 +1,35 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "",
+    "air_date": "2022-09-01",
+    "episode_count": "8",
+    "poster_path": "/umRaUV2ku9MMtEunMQt3uCO1OgE.jpg",
+    "id": "114041",
+    "vote_average": "6.3"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "Sauron has returned. Cast out by Galadriel, the Dark Lord must now rely on his own cunning to rebuild his strength and forge the legendary Rings of Power, threatening to bind all peoples of Middle-earth to his sinister will. Season 2 plunges its most beloved characters into a rising tide of darkness, challenging each to find his or her place in a world on the brink of calamity.",
+    "air_date": "2024-08-29",
+    "episode_count": "8",
+    "poster_path": "/m93DIqlwcHWiepTl6WXPiOlw4E9.jpg",
+    "id": "382474",
+    "vote_average": "6.1"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Season 3",
+    "overview": "Jumping forward several years from the events of Season Two, Season Three takes place at the height of the War of the Elves and Sauron, as the Dark Lord seeks to craft the One Ring that will give him the edge he needs to win the war, bind all peoples to his will - and at last rule all Middle-earth.",
+    "air_date": "2026-11-11",
+    "episode_count": "1",
+    "poster_path": "n/a",
+    "id": "467821",
+    "vote_average": "0.0"
+  }
+]
