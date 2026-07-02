@@ -1,0 +1,57 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "Strange things are afoot in Hawkins, Indiana, where a young boy's sudden disappearance unearths a young girl with otherworldly powers.",
+    "air_date": "2016-07-13",
+    "episode_count": "8",
+    "poster_path": "/fOaUnQwDJV22esXEswhaDMSqn2w.jpg",
+    "id": "77680",
+    "vote_average": "8.5"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Stranger Things 2",
+    "overview": "It's been nearly a year since Will's strange disappearance. But life's hardly back to normal in Hawkins. Not even close.",
+    "air_date": "2017-10-24",
+    "episode_count": "9",
+    "poster_path": "/74nFJmiapxKuUBXRbSu6VqGGcuo.jpg",
+    "id": "83248",
+    "vote_average": "8.2"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Stranger Things 3",
+    "overview": "Budding romance. A brand-new mall. And rabid rats running toward danger. It's the summer of 1985 in Hawkins ... and one summer can change everything.",
+    "air_date": "2019-07-04",
+    "episode_count": "8",
+    "poster_path": "/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+    "id": "115216",
+    "vote_average": "8.2"
+  },
+  {
+    "season": "4",
+    "season_number": "4",
+    "name": "Stranger Things 4",
+    "overview": "Darkness returns to Hawkins just in time for spring break, igniting fresh terror, disturbing memories — and an ominous new threat.",
+    "air_date": "2022-05-27",
+    "episode_count": "9",
+    "poster_path": "/zvGTZYDCoMSMIBkXExxRxLYimqN.jpg",
+    "id": "163313",
+    "vote_average": "8.5"
+  },
+  {
+    "season": "5",
+    "season_number": "5",
+    "name": "Stranger Things 5",
+    "overview": "The fall of 1987. Hawkins is scarred by rifts. Vecna has vanished and the government has placed the town under military quarantine, forcing Eleven back into hiding. To end this nightmare, they'll need everyone together, one last time.",
+    "air_date": "2025-11-26",
+    "episode_count": "8",
+    "poster_path": "/grFHRwBSlRDM7NvleNQYBCWAgRI.jpg",
+    "id": "402292",
+    "vote_average": "7.5"
+  }
+]
