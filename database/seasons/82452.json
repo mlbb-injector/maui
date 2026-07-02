@@ -1,0 +1,24 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "",
+    "air_date": "2024-02-22",
+    "episode_count": "8",
+    "poster_path": "/dHVBAhJ7jfD4S16ZEJmZbjotAD0.jpg",
+    "id": "109532",
+    "vote_average": "7.9"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "",
+    "air_date": "2026-06-24",
+    "episode_count": "7",
+    "poster_path": "/i18qgDSOTxZ1QFWBBg0GdDffLGj.jpg",
+    "id": "419520",
+    "vote_average": "0.0"
+  }
+]
