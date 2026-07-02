@@ -1,0 +1,35 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "",
+    "air_date": "2022-11-23",
+    "episode_count": "8",
+    "poster_path": "/v9fNsN3WNXObKJjBWkiKMuT3XoR.jpg",
+    "id": "182137",
+    "vote_average": "8.4"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "",
+    "air_date": "2025-08-06",
+    "episode_count": "8",
+    "poster_path": "/aamw6JjKwTy6bdviyIcFKekSD6x.jpg",
+    "id": "345672",
+    "vote_average": "7.5"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Season 3",
+    "overview": "",
+    "air_date": "n/a",
+    "episode_count": "0",
+    "poster_path": "/8T7c6K6Ytx8nryt2Y9lw9mAtNGt.jpg",
+    "id": "502202",
+    "vote_average": "0.0"
+  }
+]
