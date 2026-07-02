@@ -1,0 +1,24 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "The players appear before you-know-who shoots Ha-ri. But he leaves while Ha-ri is caught by police.",
+    "air_date": "2018-09-29",
+    "episode_count": "14",
+    "poster_path": "/w6gtig4seEHlvDq9MK9nToXYLtt.jpg",
+    "id": "108708",
+    "vote_average": "8.6"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "The Player 2: Master of Swindlers",
+    "overview": "Swindler, hacker, fighter, and driver unite again to con vilest villains out of all their dirty money in the most exhilarating and gratifying action-packed maneuvers possible!",
+    "air_date": "2024-06-03",
+    "episode_count": "12",
+    "poster_path": "/feS0D3qQ4yFBhI2YnRglohaN2DN.jpg",
+    "id": "348146",
+    "vote_average": "7.5"
+  }
+]
