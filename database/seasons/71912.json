@@ -1,0 +1,46 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "The witcher Geralt, a mutated monster hunter, struggles to find his place in a world in which people often prove more wicked than beasts.",
+    "air_date": "2019-12-20",
+    "episode_count": "8",
+    "poster_path": "/5BvFJfi3qBxTFaLKsft202YeqGl.jpg",
+    "id": "88731",
+    "vote_average": "7.7"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "Geralt embraces his destiny as he protects Ciri from the forces battling for control of the Continent — and from the mysterious power she possesses.",
+    "air_date": "2021-12-17",
+    "episode_count": "8",
+    "poster_path": "/e4ALUvmGoQL1LhAwdc0ORs0BSd0.jpg",
+    "id": "201716",
+    "vote_average": "7.1"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Season 3",
+    "overview": "Destiny brought them together. Dangerous forces are trying to tear them apart. Geralt and Yennefer fight to keep Ciri safe as war brews on the Continent.",
+    "air_date": "2023-06-29",
+    "episode_count": "8",
+    "poster_path": "/wgmaqKgweZA6AahZ95aioSRd1M6.jpg",
+    "id": "338504",
+    "vote_average": "6.2"
+  },
+  {
+    "season": "4",
+    "season_number": "4",
+    "name": "Season 4",
+    "overview": "After the Continent-altering events of Season Three, Geralt, Yennefer, and Ciri find themselves separated by a raging war and countless enemies. As their paths diverge, and their goals sharpen, they stumble on unexpected allies eager to join their journeys. And if they can accept these found families, they just might have a chance at reuniting for good...",
+    "air_date": "2025-10-30",
+    "episode_count": "8",
+    "poster_path": "/d74mHAWr5Q73O7lINSME4YBDhhh.jpg",
+    "id": "395146",
+    "vote_average": "5.2"
+  }
+]
