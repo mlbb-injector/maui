@@ -1,0 +1,46 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "",
+    "air_date": "2013-10-06",
+    "episode_count": "75",
+    "poster_path": "/ib9X03rurgCrXDpfsUxHZsaMhaV.jpg",
+    "id": "60625",
+    "vote_average": "7.0"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "Coach Kataoka takes the failure to reach the nationals upon himself as some shortcoming in himself. With the fall tournament presenting a new chance to reach the nationals, the team strives to overcome gaps left by the third years' absence. As they strive to improve, they retain the hope of making it to the nationals and keeping their treasured coach from retiring. The battle to hold the position of ace between Sawamura, Furuya and Norifumi continues bringing new strength to the team.",
+    "air_date": "2015-04-06",
+    "episode_count": "51",
+    "poster_path": "/v41RDBgD4lSNYYUYnqjZ4pldQfn.jpg",
+    "id": "71148",
+    "vote_average": "0.0"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Act II",
+    "overview": "Eijun Sawamura finally makes his first appearance at the spring invitational! He wants to restore Seido’s reputation as a first-rate team and make them national champions! Seido High School Baseball Club’s new run is about to begin!",
+    "air_date": "2019-04-02",
+    "episode_count": "52",
+    "poster_path": "/Auhmn8BAAz1Devchit7d72odjXk.jpg",
+    "id": "120127",
+    "vote_average": "0.0"
+  },
+  {
+    "season": "4",
+    "season_number": "4",
+    "name": "Act II -Second Season-",
+    "overview": "Seido High's star pitcher, Eijun Sawamura, has finally earned the prized ace uniform, but this summer is his last shot to lead the school's baseball team to victory. He and his stoic teammates Furuya, who battles injury, and Miyuki, who anchors the team as captain, will hold the rope through every curve ball that comes their way in the tournament.",
+    "air_date": "2026-04-05",
+    "episode_count": "12",
+    "poster_path": "/lypSt25Lnk9gEqu3GkDhipIehYX.jpg",
+    "id": "491542",
+    "vote_average": "0.0"
+  }
+]
