@@ -1,0 +1,24 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "Two young boxers band together with a benevolent moneylender to take down a ruthless loan shark who preys on the financially desperate.",
+    "air_date": "2023-06-09",
+    "episode_count": "8",
+    "poster_path": "/5rmiPl3WgngnVYLbYWDloF1WXR1.jpg",
+    "id": "199163",
+    "vote_average": "7.7"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "",
+    "air_date": "2026-04-03",
+    "episode_count": "7",
+    "poster_path": "/yLQQoseay2JXHZO9UVGA53i1HQ.jpg",
+    "id": "397184",
+    "vote_average": "8.0"
+  }
+]
