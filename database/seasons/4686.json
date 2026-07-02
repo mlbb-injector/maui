@@ -1,0 +1,46 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "",
+    "air_date": "2005-12-27",
+    "episode_count": "13",
+    "poster_path": "/jEFYRfZodMpxRzpuhxRPipCYfKW.jpg",
+    "id": "14278",
+    "vote_average": "6.9"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "",
+    "air_date": "2006-05-29",
+    "episode_count": "13",
+    "poster_path": "/shtZpLKuUsHH2LEFfENciI9EFl6.jpg",
+    "id": "14279",
+    "vote_average": "6.9"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Season 3",
+    "overview": "",
+    "air_date": "2006-11-25",
+    "episode_count": "13",
+    "poster_path": "/shDvpprkeJlAsmhq7kZmm2ajfF3.jpg",
+    "id": "14281",
+    "vote_average": "6.7"
+  },
+  {
+    "season": "4",
+    "season_number": "4",
+    "name": "Season 4",
+    "overview": "",
+    "air_date": "2007-07-07",
+    "episode_count": "13",
+    "poster_path": "/2ebwBMFZkgYzcgz614yfMjtXgpW.jpg",
+    "id": "14280",
+    "vote_average": "6.5"
+  }
+]
