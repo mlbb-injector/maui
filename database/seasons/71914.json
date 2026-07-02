@@ -1,0 +1,35 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "The lives of five young villagers change forever when a strange and powerful woman arrives, claiming one of them is the child of an ancient prophecy with the power to tip the balance between Light and Dark forever. They must choose whether to trust this stranger – and each other – with the fate of the world before the Dark One breaks out of His prison, and the Last Battle begins.",
+    "air_date": "2021-11-18",
+    "episode_count": "8",
+    "poster_path": "/mpgDeLhl8HbhI03XLB7iKO6M6JE.jpg",
+    "id": "88733",
+    "vote_average": "6.5"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "Though Rand thought he destroyed the Dark One, evil is not gone from the world. Threats new and very old seek out the young friends from the Two Rivers, now scattered over the world. The woman who found and guided them is now powerless to help, and so they must find other sources of strength. In each other, or themselves. In the Light... or the Dark.",
+    "air_date": "2023-08-31",
+    "episode_count": "8",
+    "poster_path": "/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg",
+    "id": "342276",
+    "vote_average": "6.1"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Season 3",
+    "overview": "With the Forsaken loose in the world, the heroes of the Light must chart their own courses and muster hidden strengths as they face the Darkness within themselves.",
+    "air_date": "2025-03-13",
+    "episode_count": "8",
+    "poster_path": "/bJSv3kF8wWmdsXsnTNftfiP8Lik.jpg",
+    "id": "432257",
+    "vote_average": "5.7"
+  }
+]
