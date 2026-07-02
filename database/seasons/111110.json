@@ -1,0 +1,35 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "ONE PIECE",
+    "overview": "",
+    "air_date": "2023-08-31",
+    "episode_count": "8",
+    "poster_path": "/kzuzfuWJ0uzFkrsNuHHaWsk4G7w.jpg",
+    "id": "164867",
+    "vote_average": "7.7"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Into the Grand Line",
+    "overview": "In ONE PIECE: Into the Grand Line, Luffy and the Straw Hats set sail for the extraordinary Grand Line - a legendary stretch of sea where danger and wonder await at every turn. As they journey through this unpredictable realm in search of the world's greatest treasure, they'll encounter bizarre islands and a host of formidable new enemies.",
+    "air_date": "2026-03-10",
+    "episode_count": "8",
+    "poster_path": "/dT16hxnY0FJ5rHV1cPR74vHS8wN.jpg",
+    "id": "400466",
+    "vote_average": "7.2"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "The Battle of Alabasta",
+    "overview": "In ONE PIECE: The Battle of Alabasta, war is coming for Monkey D. Luffy and the Straw Hat crew in the desert kingdom of Alabasta, Princess Vivi's homeland. A rebellion threatens to tear the nation apart, fueled in secret by one of the Seven Warlords of the Sea, the ruthless Sir Crocodile, and his underground syndicate Baroque Works, who seek to conquer Alabasta for themselves. In a season defined by unbreakable bonds and impossible choices, the Straw Hats must face a brewing civil war and a powerful warlord to save Vivi's kingdom before it crumbles into the sand.",
+    "air_date": "n/a",
+    "episode_count": "1",
+    "poster_path": "/ynzuBZUrq2iuudBVKqBll1lYK2y.jpg",
+    "id": "503369",
+    "vote_average": "0.0"
+  }
+]
