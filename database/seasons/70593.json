@@ -1,0 +1,24 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "While strange rumors about their ill king grip a kingdom, the crown prince becomes their only hope against a mysterious plague overtaking the land.",
+    "air_date": "2019-01-25",
+    "episode_count": "6",
+    "poster_path": "/6jwwUCfXaVMB5a4QfwCelpXh8Vg.jpg",
+    "id": "85914",
+    "vote_average": "7.7"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "The outbreak leaves no one safe. But the infected are not the only monsters in Prince Chang's way as he fights to protect the kingdom.",
+    "air_date": "2020-03-13",
+    "episode_count": "6",
+    "poster_path": "/ifQHoN9XrLS3rM63fA4ej2XgGv3.jpg",
+    "id": "118152",
+    "vote_average": "7.9"
+  }
+]
