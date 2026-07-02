@@ -1,0 +1,35 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "",
+    "air_date": "2019-05-31",
+    "episode_count": "6",
+    "poster_path": "/hzEzugrfagYisxQXemGEuI4zcQA.jpg",
+    "id": "88734",
+    "vote_average": "7.9"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "A naked archangel turns up at the door to renegade angel Aziraphale's bookshop, with no memory of who he is or how he got there, and Aziraphale and retired demon Crowley's lives become extremely complicated. Heaven and Hell are both desperate to find the runaway. As Crowley and Aziraphale attempt to fix a human romance, things become increasingly unsafe for them, in the past and the present.",
+    "air_date": "2023-07-28",
+    "episode_count": "6",
+    "poster_path": "/dQeOTbYsWGFvdcFDTVfbgmmmzw1.jpg",
+    "id": "200771",
+    "vote_average": "8.3"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Season 3",
+    "overview": "Aziraphale, now Supreme Archangel, seeks Crowley's help as plans for the Second Coming take a surprising yet dangerous turn. Can the angel and demon reconcile their differences before it's too late?",
+    "air_date": "2026-05-13",
+    "episode_count": "1",
+    "poster_path": "/kp89BcdYNV2H13HiHS7lbesdYvo.jpg",
+    "id": "501051",
+    "vote_average": "8.4"
+  }
+]
