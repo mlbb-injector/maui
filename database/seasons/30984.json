@@ -1,0 +1,24 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Bleach",
+    "overview": "",
+    "air_date": "2004-10-05",
+    "episode_count": "366",
+    "poster_path": "/5iVUUnE2tgBPypACYNobCKHagfV.jpg",
+    "id": "42567",
+    "vote_average": "7.0"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Thousand-Year Blood War",
+    "overview": "The final arc of the Bleach series, where Ichigo Kurosaki and the Soul Reapers face off against the powerful Quincy army, led by Yhwach, in a battle that threatens the balance of all worlds.",
+    "air_date": "2022-10-11",
+    "episode_count": "41",
+    "poster_path": "/eReMMJnHqDeZUYIkA8bZy8ZZZJD.jpg",
+    "id": "295738",
+    "vote_average": "8.0"
+  }
+]
