@@ -1,0 +1,24 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "",
+    "air_date": "2022-01-28",
+    "episode_count": "12",
+    "poster_path": "/mV4HdMrkzGeDtXu5nLqJ31LpGWw.jpg",
+    "id": "144348",
+    "vote_average": "8.2"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "",
+    "air_date": "n/a",
+    "episode_count": "0",
+    "poster_path": "/b1tfQgSvatcxG4BefzoBSW05t1N.jpg",
+    "id": "296466",
+    "vote_average": "0.0"
+  }
+]
