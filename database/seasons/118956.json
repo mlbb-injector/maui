@@ -1,0 +1,35 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Book 1",
+    "overview": "",
+    "air_date": "2021-03-25",
+    "episode_count": "8",
+    "poster_path": "/45kH5hygplKDLnEUg1O9gdNpqhR.jpg",
+    "id": "181987",
+    "vote_average": "6.6"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Book 2",
+    "overview": "Upheaval reigns, order crumbles, and all heroes must now answer the call to fight the daunting forces threatening to plunge the world into darkness.",
+    "air_date": "2022-01-18",
+    "episode_count": "8",
+    "poster_path": "/om2jRa8HIO3CzpZzlSHIxRxKmFK.jpg",
+    "id": "217636",
+    "vote_average": "7.6"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Book 3",
+    "overview": "The time has come for brave warriors to conquer an indomitable foe. But can the ultimate sacrifice bring lasting peace — to all possible worlds?",
+    "air_date": "2022-08-11",
+    "episode_count": "8",
+    "poster_path": "/wq1rfwbnoo8iXpytiu38hkvv1be.jpg",
+    "id": "297028",
+    "vote_average": "7.6"
+  }
+]
