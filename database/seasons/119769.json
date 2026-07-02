@@ -1,0 +1,35 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "A former special forces soldier delivers revenge for victims of injustice while working for a secret organization that fronts as a taxi company.",
+    "air_date": "2021-04-09",
+    "episode_count": "16",
+    "poster_path": "/xnNUmtYA9Hjz4c604MNb7itFmP1.jpg",
+    "id": "183744",
+    "vote_average": "8.3"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "The Rainbow Deluxe Taxi crew reunites to fight injustice once again, with a new member joining their ranks, but they must now face a mysterious organization that threatens them while they continue to seek justice for the wronged.",
+    "air_date": "2023-02-17",
+    "episode_count": "16",
+    "poster_path": "/gYXs0NIcFPxJrpI885y96RG8uUK.jpg",
+    "id": "328473",
+    "vote_average": "8.2"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Season 3",
+    "overview": "The Rainbow Deluxe Taxi is back in business. This time, a call from Japan brings the team together. A girl goes missing after making a call to the Rainbow Taxi. The only lead they have is her name and the phone she called. But even so, the team tenaciously looks for the lead, which is what they are good at. As the team investigates, they find out that there’s a Japanese loan company behind this case. With new cars and equipment, the team goes to help out the girl who needs help. Starting with this international case, the team will fight on behalf of everyone who has been wronged in this society again this season.",
+    "air_date": "2025-11-21",
+    "episode_count": "16",
+    "poster_path": "/6uRbmbzB029xyRhwC5tIenEmRkU.jpg",
+    "id": "422624",
+    "vote_average": "6.9"
+  }
+]
