@@ -1,0 +1,24 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "",
+    "air_date": "2025-11-13",
+    "episode_count": "6",
+    "poster_path": "/d3K7mugQwGdWf1Q9Fnb0m8y1Mng.jpg",
+    "id": "389172",
+    "vote_average": "8.6"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "",
+    "air_date": "n/a",
+    "episode_count": "0",
+    "poster_path": "n/a",
+    "id": "490234",
+    "vote_average": "0.0"
+  }
+]
