@@ -1,0 +1,24 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "",
+    "air_date": "2018-03-21",
+    "episode_count": "10",
+    "poster_path": "/mb6VNISay0XJtr4uJ5pOqK5sys.jpg",
+    "id": "87531",
+    "vote_average": "6.8"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "",
+    "air_date": "2019-06-12",
+    "episode_count": "10",
+    "poster_path": "/8jKDFv7tIWsLFZis3irpsQQBujD.jpg",
+    "id": "122688",
+    "vote_average": "6.6"
+  }
+]
