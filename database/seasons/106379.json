@@ -1,0 +1,24 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the incredibly complex, gleefully weird and highly violent universe waiting for them above.",
+    "air_date": "2024-04-10",
+    "episode_count": "8",
+    "poster_path": "/umhZRQwBbDRWbrvLev4cz4GZBhr.jpg",
+    "id": "157128",
+    "vote_average": "7.7"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "What say you Ms MacLean?",
+    "air_date": "2025-12-16",
+    "episode_count": "8",
+    "poster_path": "/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+    "id": "455510",
+    "vote_average": "6.9"
+  }
+]
