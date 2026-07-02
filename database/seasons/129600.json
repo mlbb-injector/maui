@@ -1,0 +1,24 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "",
+    "air_date": "2021-09-30",
+    "episode_count": "12",
+    "poster_path": "/4wMK5VJMF9cTzlLFuBLvHEvj9zx.jpg",
+    "id": "203208",
+    "vote_average": "8.5"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "Scientists discover a perfectly preserved prehistoric man so powerful, he once preyed on Jurassic dinosaurs — and Baki can’t wait to fight him.",
+    "air_date": "2023-07-26",
+    "episode_count": "27",
+    "poster_path": "/zigYQhqqA98rB5BSn331aIbrGCf.jpg",
+    "id": "340459",
+    "vote_average": "9.8"
+  }
+]
