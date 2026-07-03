@@ -15,11 +15,7 @@
       "Action & Adventure",
       "Sci-Fi & Fantasy"
     ],
-    "Genres": [
-      "Animation",
-      "Action & Adventure",
-      "Sci-Fi & Fantasy"
-    ],
+    "Genres": "Animation,Action & Adventure,Sci-Fi & Fantasy",
     "overview": "In a world plagued by creatures known as Kaiju, Kafka Hibino aspired to enlist in The Defense Force. He makes a promise to enlist with his childhood friend, Mina Ashiro. Soon, life takes them in separate ways. While employed cleaning up after Kaiju battles, Kafka meets Reno Ichikawa. Reno's determination to join The Defense Force reawakens Kafka's promise to join Mina and protect humanity.",
     "Overview": "In a world plagued by creatures known as Kaiju, Kafka Hibino aspired to enlist in The Defense Force. He makes a promise to enlist with his childhood friend, Mina Ashiro. Soon, life takes them in separate ways. While employed cleaning up after Kaiju battles, Kafka meets Reno Ichikawa. Reno's determination to join The Defense Force reawakens Kafka's promise to join Mina and protect humanity.",
     "poster": "/bJxGs0w5RAhaX4fIUQu511rvm0S.jpg",
@@ -27,7 +23,7 @@
     "backdrop": "/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
     "Backdrop": "/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
     "logo": "/3LLPafM7SMSaFzxdy3Pdy1kQGe4.svg",
-    "Logo": "/3LLPafM7SMSaFzxdy3Pdy1kQGe4.svg",
+    "Logo": "/3LLPafM7SMSaFzxdy3Pdy1kQGe4.png",
     "runtime": "24",
     "status": "Returning Series",
     "SeriesStatus": "Returning Series",
