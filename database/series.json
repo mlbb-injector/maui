@@ -1,5 +1,46 @@
 [
   {
+    "id": "288705",
+    "tmdbID": "288705",
+    "title": "Avenues of the Diamond",
+    "Title": "Avenues of the Diamond",
+    "year": "2025",
+    "Year": "2025",
+    "vote": "3.5",
+    "Vote": "3.5",
+    "language": "tl",
+    "Language": "tl",
+    "genres": [
+      "Drama"
+    ],
+    "Genres": [
+      "Drama"
+    ],
+    "overview": "Sam is a friendly communications student who likes to party. Clyden is a snobby med student focused on studying. One day, these opposites suddenly find themselves arranged to be married. Will they escape their engagement or will this forced arrangement turn into real love?",
+    "Overview": "Sam is a friendly communications student who likes to party. Clyden is a snobby med student focused on studying. One day, these opposites suddenly find themselves arranged to be married. Will they escape their engagement or will this forced arrangement turn into real love?",
+    "poster": "/mP0hubaxMxTFWgKziDYYpSAlIpO.jpg",
+    "Poster": "/mP0hubaxMxTFWgKziDYYpSAlIpO.jpg",
+    "backdrop": "/zVVWJRrLSfWgj8YMXMWPmvOpyfh.jpg",
+    "Backdrop": "/zVVWJRrLSfWgj8YMXMWPmvOpyfh.jpg",
+    "logo": "",
+    "Logo": "",
+    "runtime": "",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 1,
+    "NumberOfSeasons": "1",
+    "episode_count": 16,
+    "NumberOfEpisodes": "16",
+    "trailer": "C_KQbX1rPMk",
+    "Trailer": "C_KQbX1rPMk",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "261846",
     "tmdbID": "261846",
     "title": "Chasing in the Wild",
@@ -14,10 +55,7 @@
       "Drama",
       "Comedy"
     ],
-    "Genres": [
-      "Drama",
-      "Comedy"
-    ],
+    "Genres": "Drama,Comedy",
     "overview": "Sevi is a basketball captain from a humble family. Elyse is a spoiled cheerleader. Though opposites, the two fall for each other. But can their young love survive the harsh realities that may come their way?",
     "Overview": "Sevi is a basketball captain from a humble family. Elyse is a spoiled cheerleader. Though opposites, the two fall for each other. But can their young love survive the harsh realities that may come their way?",
     "poster": "/jDENAVWUDBV2txbPo3MrgL2bXeY.jpg",
