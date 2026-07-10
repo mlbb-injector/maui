@@ -1,5 +1,48 @@
 [
   {
+    "id": "240901",
+    "tmdbID": "240901",
+    "title": "Safe Skies, Archer",
+    "Title": "Safe Skies, Archer",
+    "year": "2023",
+    "Year": "2023",
+    "vote": "9.8",
+    "Vote": "9.8",
+    "language": "tl",
+    "Language": "tl",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "Genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
+    "Overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
+    "poster": "/18aLdAhPcLK2ZmBb4xCSP0KonzG.jpg",
+    "Poster": "/18aLdAhPcLK2ZmBb4xCSP0KonzG.jpg",
+    "backdrop": "/aTSTFhQFf0X1SXGqtiMmG3QKKwT.jpg",
+    "Backdrop": "/aTSTFhQFf0X1SXGqtiMmG3QKKwT.jpg",
+    "logo": "",
+    "Logo": "",
+    "runtime": "",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 1,
+    "NumberOfSeasons": "1",
+    "episode_count": 10,
+    "NumberOfEpisodes": "10",
+    "trailer": "ZohF5CiRpzw",
+    "Trailer": "ZohF5CiRpzw",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "213738",
     "tmdbID": "213738",
     "title": "The Rain in España",
@@ -14,10 +57,7 @@
       "Drama",
       "Comedy"
     ],
-    "Genres": [
-      "Drama",
-      "Comedy"
-    ],
+    "Genres": "Drama,Comedy, Philippines",
     "overview": "Based on a hit Wattpad novel with more than 130 million reads. Luna and Kalix were still students, when their budding romance was cut short. Years after, fate finds a way for them to work together on a special project.",
     "Overview": "Based on a hit Wattpad novel with more than 130 million reads. Luna and Kalix were still students, when their budding romance was cut short. Years after, fate finds a way for them to work together on a special project.",
     "poster": "/pSsE9JTXtk1injjffpWlIqxMIaX.jpg",
