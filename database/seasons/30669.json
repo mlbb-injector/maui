@@ -1,0 +1,46 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "The Spirit Detective",
+    "overview": "",
+    "air_date": "1992-10-10",
+    "episode_count": "25",
+    "poster_path": "/dDojvE5JJ7MXOPfD4u9ca7eBAtu.jpg",
+    "id": "42228",
+    "vote_average": "7.8"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "The Dark Tournament",
+    "overview": "",
+    "air_date": "1993-04-17",
+    "episode_count": "41",
+    "poster_path": "/AcbXbdrE3wCXSl20hz9Uyg5HraI.jpg",
+    "id": "42229",
+    "vote_average": "7.5"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Chapter Black",
+    "overview": "",
+    "air_date": "1994-02-05",
+    "episode_count": "28",
+    "poster_path": "/fO0REZCZQkpLRWS9fcgPZEYCcFd.jpg",
+    "id": "42230",
+    "vote_average": "6.5"
+  },
+  {
+    "season": "4",
+    "season_number": "4",
+    "name": "Saga of the Three Kings",
+    "overview": "",
+    "air_date": "1994-08-20",
+    "episode_count": "18",
+    "poster_path": "/8iuj5T1tIZncS00112sDlKTCxbm.jpg",
+    "id": "42231",
+    "vote_average": "6.8"
+  }
+]
