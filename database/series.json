@@ -1,5 +1,50 @@
 [
   {
+    "id": "210942",
+    "tmdbID": "210942",
+    "title": "Lookism",
+    "Title": "Lookism",
+    "year": "2022",
+    "Year": "2022",
+    "vote": "8.294",
+    "Vote": "8.294",
+    "language": "ko",
+    "Language": "ko",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Animation"
+    ],
+    "Genres": [
+      "Comedy",
+      "Drama",
+      "Animation"
+    ],
+    "overview": "In a society that favors good looks, a high school outcast leads a double life switching between his two bodies that are polar opposites in appearance.",
+    "Overview": "In a society that favors good looks, a high school outcast leads a double life switching between his two bodies that are polar opposites in appearance.",
+    "poster": "/qkoM63HDuCOSwxGfb0pljrgns9I.jpg",
+    "Poster": "/qkoM63HDuCOSwxGfb0pljrgns9I.jpg",
+    "backdrop": "/vjvL4LCLMxOcFOuaYLPQMtAEFJ0.jpg",
+    "Backdrop": "/vjvL4LCLMxOcFOuaYLPQMtAEFJ0.jpg",
+    "logo": "/bhfexIAegWQnIqbgh8qAdSJZjqz.png",
+    "Logo": "/bhfexIAegWQnIqbgh8qAdSJZjqz.png",
+    "runtime": "",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 1,
+    "NumberOfSeasons": "1",
+    "episode_count": 8,
+    "NumberOfEpisodes": "8",
+    "trailer": "LPgBQSya5rU",
+    "Trailer": "LPgBQSya5rU",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "45783",
     "tmdbID": "45783",
     "title": "Kuroko's Basketball",
@@ -15,11 +60,7 @@
       "Comedy",
       "Drama"
     ],
-    "Genres": [
-      "Animation",
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": "Animation,Comedy,Drama",
     "overview": "In the story, Kagami Taiga has just enrolled into Seirin High School when he meets Kuroko Tetsuya of the school's basketball team. Kuroko happens to be the shadowy sixth member of the legendary Generation of Miracles basketball team. Together, Kagami and Kuroko aim to take their team to the inter-high school championship - against Kuroko's former teammates.",
     "Overview": "In the story, Kagami Taiga has just enrolled into Seirin High School when he meets Kuroko Tetsuya of the school's basketball team. Kuroko happens to be the shadowy sixth member of the legendary Generation of Miracles basketball team. Together, Kagami and Kuroko aim to take their team to the inter-high school championship - against Kuroko's former teammates.",
     "poster": "/qi8dlAgQEeahpEn1AOb5BJEOcVB.jpg",
