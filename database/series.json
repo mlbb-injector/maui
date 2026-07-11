@@ -1,5 +1,54 @@
 [
   {
+    "id": "21732",
+    "tmdbID": "21732",
+    "title": "Mobile Suit Gundam 00",
+    "Title": "Mobile Suit Gundam 00",
+    "year": "2007",
+    "Year": "2007",
+    "vote": "7.579",
+    "Vote": "7.579",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "War & Politics"
+    ],
+    "Genres": [
+      "Action & Adventure",
+      "Animation",
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "War & Politics"
+    ],
+    "overview": "The year is 2307 A.D. Although fossil fuels have been depleted, humanity has obtained a new source of energy to replace them, in the form of a large-scale solar power generation system based on three huge orbital elevators. However, the benefits of this system are available only to a handful of major powers and their allies. In this world of never-ending conflict, a private armed organization appears, dedicated to the elimination of war through armed force. Its name is Celestial Being, and it is in possession of \"Gundam\" mobile suits.",
+    "Overview": "The year is 2307 A.D. Although fossil fuels have been depleted, humanity has obtained a new source of energy to replace them, in the form of a large-scale solar power generation system based on three huge orbital elevators. However, the benefits of this system are available only to a handful of major powers and their allies. In this world of never-ending conflict, a private armed organization appears, dedicated to the elimination of war through armed force. Its name is Celestial Being, and it is in possession of \"Gundam\" mobile suits.",
+    "poster": "/1uEgsZ47dtBCoKLlL9edQ0QMrRF.jpg",
+    "Poster": "/1uEgsZ47dtBCoKLlL9edQ0QMrRF.jpg",
+    "backdrop": "/vxSDDV6VxTHkrABsNa3dqhExAIk.jpg",
+    "Backdrop": "/vxSDDV6VxTHkrABsNa3dqhExAIk.jpg",
+    "logo": "/twSaGE9URB3bsTZJ9cCdsPBksOU.png",
+    "Logo": "/twSaGE9URB3bsTZJ9cCdsPBksOU.png",
+    "runtime": "25",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 2,
+    "NumberOfSeasons": "2",
+    "episode_count": 50,
+    "NumberOfEpisodes": "50",
+    "trailer": "yTGzkTQjGak",
+    "Trailer": "yTGzkTQjGak",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "65369",
     "tmdbID": "65369",
     "title": "Grimgar of Fantasy and Ash",
@@ -16,12 +65,7 @@
       "Sci-Fi & Fantasy",
       "Drama"
     ],
-    "Genres": [
-      "Animation",
-      "Action & Adventure",
-      "Sci-Fi & Fantasy",
-      "Drama"
-    ],
+    "Genres": "Animation,Action & Adventure,Sci-Fi & Fantasy,Drama",
     "overview": "When Haruhiro awakens, he’s in the dark surrounded by people who have no memory of where they came from or how they got there. As the darkness fades, a fantastic new world called “Grimgar” appears before them and their adventure begins—but first, they’ll have to choose their guild, class, and special abilities.",
     "Overview": "When Haruhiro awakens, he’s in the dark surrounded by people who have no memory of where they came from or how they got there. As the darkness fades, a fantastic new world called “Grimgar” appears before them and their adventure begins—but first, they’ll have to choose their guild, class, and special abilities.",
     "poster": "/vDs4SVtbEcklxseEoeTV5B5U3n.jpg",
