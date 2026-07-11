@@ -1,5 +1,50 @@
 [
   {
+    "id": "65930",
+    "tmdbID": "65930",
+    "title": "My Hero Academia",
+    "Title": "My Hero Academia",
+    "year": "2016",
+    "Year": "2016",
+    "vote": "8.611",
+    "Vote": "8.611",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "Genres": [
+      "Action & Adventure",
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "overview": "After he saves a bully from a Villain, a normal student is granted a superpower that allows him to attend a high school training academy for Heroes.",
+    "Overview": "After he saves a bully from a Villain, a normal student is granted a superpower that allows him to attend a high school training academy for Heroes.",
+    "poster": "/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
+    "Poster": "/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
+    "backdrop": "/ol0H2DGp4ifBHA4JDlCpwJWxnY2.jpg",
+    "Backdrop": "/ol0H2DGp4ifBHA4JDlCpwJWxnY2.jpg",
+    "logo": "/x2akyNYTkIUExuM46FaJ2NUcAlw.png",
+    "Logo": "/x2akyNYTkIUExuM46FaJ2NUcAlw.png",
+    "runtime": "24",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 8,
+    "NumberOfSeasons": "8",
+    "episode_count": 170,
+    "NumberOfEpisodes": "170",
+    "trailer": "TRr_dS2REo4",
+    "Trailer": "TRr_dS2REo4",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "This is, our hero academia.",
+    "Tagline": "This is, our hero academia.",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "210942",
     "tmdbID": "210942",
     "title": "Lookism",
@@ -15,11 +60,7 @@
       "Drama",
       "Animation"
     ],
-    "Genres": [
-      "Comedy",
-      "Drama",
-      "Animation"
-    ],
+    "Genres": "Comedy,Drama,Animation",
     "overview": "In a society that favors good looks, a high school outcast leads a double life switching between his two bodies that are polar opposites in appearance.",
     "Overview": "In a society that favors good looks, a high school outcast leads a double life switching between his two bodies that are polar opposites in appearance.",
     "poster": "/qkoM63HDuCOSwxGfb0pljrgns9I.jpg",
