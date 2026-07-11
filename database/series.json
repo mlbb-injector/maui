@@ -1,5 +1,52 @@
 [
   {
+    "id": "80563",
+    "tmdbID": "80563",
+    "title": "How Not to Summon a Demon Lord",
+    "Title": "How Not to Summon a Demon Lord",
+    "year": "2018",
+    "Year": "2018",
+    "vote": "7.792",
+    "Vote": "7.792",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Action & Adventure",
+      "Comedy",
+      "Sci-Fi & Fantasy",
+      "Animation"
+    ],
+    "Genres": [
+      "Action & Adventure",
+      "Comedy",
+      "Sci-Fi & Fantasy",
+      "Animation"
+    ],
+    "overview": "Sakamoto Takuma was so strong in the MMORPG Cross Reverie that his fellow players came to call him the \"demon lord.\" One day, he gets summoned to another world in his avatar form, and meets two girls who both insist that they're the one who summoned him. They cast a spell used to enslave summoned beasts on him, but that activates his unique ability, Magic Reflect, and the girls end up being the ones put under the spell! And thus begins the otherworldly adventure of a demon lord (pretend) who blazes his own trail through overwhelming power.",
+    "Overview": "Sakamoto Takuma was so strong in the MMORPG Cross Reverie that his fellow players came to call him the \"demon lord.\" One day, he gets summoned to another world in his avatar form, and meets two girls who both insist that they're the one who summoned him. They cast a spell used to enslave summoned beasts on him, but that activates his unique ability, Magic Reflect, and the girls end up being the ones put under the spell! And thus begins the otherworldly adventure of a demon lord (pretend) who blazes his own trail through overwhelming power.",
+    "poster": "/oVozVLWMTej4CRBpfu0ehxofBHS.jpg",
+    "Poster": "/oVozVLWMTej4CRBpfu0ehxofBHS.jpg",
+    "backdrop": "/vGY4bcMUhkqUyCaR6SC8s1zPC7O.jpg",
+    "Backdrop": "/vGY4bcMUhkqUyCaR6SC8s1zPC7O.jpg",
+    "logo": "/taYIvKmaFJhAqp6IgDhdSvnCm5t.png",
+    "Logo": "/taYIvKmaFJhAqp6IgDhdSvnCm5t.png",
+    "runtime": "24",
+    "status": "Returning Series",
+    "SeriesStatus": "Returning Series",
+    "season_count": 2,
+    "NumberOfSeasons": "2",
+    "episode_count": 22,
+    "NumberOfEpisodes": "22",
+    "trailer": "puaffx0eIkg",
+    "Trailer": "puaffx0eIkg",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "88045",
     "tmdbID": "88045",
     "title": "How Heavy Are the Dumbbells You Lift?",
@@ -14,10 +61,7 @@
       "Animation",
       "Comedy"
     ],
-    "Genres": [
-      "Animation",
-      "Comedy"
-    ],
+    "Genres": "Animation,Comedy",
     "overview": "Hibiki Sakura’s love for food is starting to affect her size, but training at her local gym is pretty intimidating! After meeting her handsome personal trainer, Machio, Hibiki bites the bullet and starts her quest for a hot bod!",
     "Overview": "Hibiki Sakura’s love for food is starting to affect her size, but training at her local gym is pretty intimidating! After meeting her handsome personal trainer, Machio, Hibiki bites the bullet and starts her quest for a hot bod!",
     "poster": "/2P9UCxm8KYowc3phznLLhh40whJ.jpg",
