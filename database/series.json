@@ -1,5 +1,48 @@
 [
   {
+    "id": "88045",
+    "tmdbID": "88045",
+    "title": "How Heavy Are the Dumbbells You Lift?",
+    "Title": "How Heavy Are the Dumbbells You Lift?",
+    "year": "2019",
+    "Year": "2019",
+    "vote": "7.748",
+    "Vote": "7.748",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "Genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "overview": "Hibiki Sakura’s love for food is starting to affect her size, but training at her local gym is pretty intimidating! After meeting her handsome personal trainer, Machio, Hibiki bites the bullet and starts her quest for a hot bod!",
+    "Overview": "Hibiki Sakura’s love for food is starting to affect her size, but training at her local gym is pretty intimidating! After meeting her handsome personal trainer, Machio, Hibiki bites the bullet and starts her quest for a hot bod!",
+    "poster": "/2P9UCxm8KYowc3phznLLhh40whJ.jpg",
+    "Poster": "/2P9UCxm8KYowc3phznLLhh40whJ.jpg",
+    "backdrop": "/mKSx9ihTXCsJSzwxEAYjA7vIQuH.jpg",
+    "Backdrop": "/mKSx9ihTXCsJSzwxEAYjA7vIQuH.jpg",
+    "logo": "/tkpLLisTvu40GQHk2XTyZxoGAFg.png",
+    "Logo": "/tkpLLisTvu40GQHk2XTyZxoGAFg.png",
+    "runtime": "24",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 1,
+    "NumberOfSeasons": "1",
+    "episode_count": 12,
+    "NumberOfEpisodes": "12",
+    "trailer": "iYqKr8HVZvo",
+    "Trailer": "iYqKr8HVZvo",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "110070",
     "tmdbID": "110070",
     "title": "Horimiya",
@@ -15,11 +58,7 @@
       "Comedy",
       "Drama"
     ],
-    "Genres": [
-      "Animation",
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": "Animation,Comedy,Drama",
     "overview": "A secret life is the one thing they have in common. At school, Hori is a prim and perfect social butterfly, but the truth is she's a brash homebody. Meanwhile, under a gloomy facade, Miyamura hides a gentle heart, along with piercings and tattoos. In a chance meeting, they both reveal a side they've never shown. Could this blossom into something new?",
     "Overview": "A secret life is the one thing they have in common. At school, Hori is a prim and perfect social butterfly, but the truth is she's a brash homebody. Meanwhile, under a gloomy facade, Miyamura hides a gentle heart, along with piercings and tattoos. In a chance meeting, they both reveal a side they've never shown. Could this blossom into something new?",
     "poster": "/iSOKGl5KIeOCAtigUDCfFZe2cOi.jpg",
