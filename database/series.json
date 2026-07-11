@@ -1,5 +1,52 @@
 [
   {
+    "id": "63926",
+    "tmdbID": "63926",
+    "title": "One-Punch Man",
+    "Title": "One-Punch Man",
+    "year": "2015",
+    "Year": "2015",
+    "vote": "8.37",
+    "Vote": "8.37",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "Genres": [
+      "Animation",
+      "Comedy",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "overview": "Saitama is a hero who only became a hero for fun. After three years of “special” training, though, he’s become so strong that he’s practically invincible. In fact, he’s too strong—even his mightiest opponents are taken out with a single punch, and it turns out that being devastatingly powerful is actually kind of a bore. With his passion for being a hero lost along with his hair, yet still faced with new enemies every day, how much longer can he keep it going?",
+    "Overview": "Saitama is a hero who only became a hero for fun. After three years of “special” training, though, he’s become so strong that he’s practically invincible. In fact, he’s too strong—even his mightiest opponents are taken out with a single punch, and it turns out that being devastatingly powerful is actually kind of a bore. With his passion for being a hero lost along with his hair, yet still faced with new enemies every day, how much longer can he keep it going?",
+    "poster": "/dT10AxJIXVvRwFAew4tt2RhzJrD.jpg",
+    "Poster": "/dT10AxJIXVvRwFAew4tt2RhzJrD.jpg",
+    "backdrop": "/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
+    "Backdrop": "/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
+    "logo": "/s4c20xXgSDjbYAcpKchuWRU3zuR.png",
+    "Logo": "/s4c20xXgSDjbYAcpKchuWRU3zuR.png",
+    "runtime": "24",
+    "status": "Returning Series",
+    "SeriesStatus": "Returning Series",
+    "season_count": 3,
+    "NumberOfSeasons": "3",
+    "episode_count": 36,
+    "NumberOfEpisodes": "36",
+    "trailer": "2JAElThbKrI",
+    "Trailer": "2JAElThbKrI",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "All it takes is one punch.",
+    "Tagline": "All it takes is one punch.",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "65930",
     "tmdbID": "65930",
     "title": "My Hero Academia",
@@ -15,11 +62,7 @@
       "Animation",
       "Sci-Fi & Fantasy"
     ],
-    "Genres": [
-      "Action & Adventure",
-      "Animation",
-      "Sci-Fi & Fantasy"
-    ],
+    "Genres": "Action & Adventure,Animation,Sci-Fi & Fantasy",
     "overview": "After he saves a bully from a Villain, a normal student is granted a superpower that allows him to attend a high school training academy for Heroes.",
     "Overview": "After he saves a bully from a Villain, a normal student is granted a superpower that allows him to attend a high school training academy for Heroes.",
     "poster": "/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
