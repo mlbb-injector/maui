@@ -1,5 +1,50 @@
 [
   {
+    "id": "95479",
+    "tmdbID": "95479",
+    "title": "JUJUTSU KAISEN",
+    "Title": "JUJUTSU KAISEN",
+    "year": "2020",
+    "Year": "2020",
+    "vote": "8.58",
+    "Vote": "8.58",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "Genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+    "Overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+    "poster": "/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+    "Poster": "/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+    "backdrop": "/lthkKBLe1rX6iThgVFg22O02sJw.jpg",
+    "Backdrop": "/lthkKBLe1rX6iThgVFg22O02sJw.jpg",
+    "logo": "/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png",
+    "Logo": "/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png",
+    "runtime": "24",
+    "status": "Returning Series",
+    "SeriesStatus": "Returning Series",
+    "season_count": 1,
+    "NumberOfSeasons": "1",
+    "episode_count": 59,
+    "NumberOfEpisodes": "59",
+    "trailer": "VpO6APNqY1c",
+    "Trailer": "VpO6APNqY1c",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "A boy fights... for \"the right death.\"",
+    "Tagline": "A boy fights... for \"the right death.\"",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "240",
     "tmdbID": "240",
     "title": "Jackie Chan Adventures",
@@ -16,12 +61,7 @@
       "Comedy",
       "Sci-Fi & Fantasy"
     ],
-    "Genres": [
-      "Action & Adventure",
-      "Animation",
-      "Comedy",
-      "Sci-Fi & Fantasy"
-    ],
+    "Genres": "Action & Adventure,Animation,Comedy,Sci-Fi & Fantasy",
     "overview": "Archaeologist Jackie Chan joins forces with his adventurous 11-year-old niece, Jade, to race around the world in search of twelve powerful magical talismans before they fall into the hands of the sinister Dark Hand crime syndicate. Along the way, they're aided by Uncle, Jackie's eccentric yet brilliant uncle, whose ancient knowledge and mystical expertise often prove to be the key to defeating dark forces.",
     "Overview": "Archaeologist Jackie Chan joins forces with his adventurous 11-year-old niece, Jade, to race around the world in search of twelve powerful magical talismans before they fall into the hands of the sinister Dark Hand crime syndicate. Along the way, they're aided by Uncle, Jackie's eccentric yet brilliant uncle, whose ancient knowledge and mystical expertise often prove to be the key to defeating dark forces.",
     "poster": "/by2GTFpd2BQ5uJxWPlfcmfrNrfB.jpg",
