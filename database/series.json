@@ -1,5 +1,50 @@
 [
   {
+    "id": "46298",
+    "tmdbID": "46298",
+    "title": "Hunter x Hunter",
+    "Title": "Hunter x Hunter",
+    "year": "2011",
+    "Year": "2011",
+    "vote": "8.665",
+    "Vote": "8.665",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "Genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "overview": "Gon, a young boy who lives on Whale Island, dreams of becoming a Hunter like his father, who left when Gon was still young.",
+    "Overview": "Gon, a young boy who lives on Whale Island, dreams of becoming a Hunter like his father, who left when Gon was still young.",
+    "poster": "/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+    "Poster": "/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+    "backdrop": "/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
+    "Backdrop": "/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
+    "logo": "/jTzF5T8Ob6oZRinUCnhbLqrxFsM.png",
+    "Logo": "/jTzF5T8Ob6oZRinUCnhbLqrxFsM.png",
+    "runtime": "24",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 3,
+    "NumberOfSeasons": "3",
+    "episode_count": 148,
+    "NumberOfEpisodes": "148",
+    "trailer": "D-51-3Dpio0",
+    "Trailer": "D-51-3Dpio0",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "Hunting for your dreams!",
+    "Tagline": "Hunting for your dreams!",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "80563",
     "tmdbID": "80563",
     "title": "How Not to Summon a Demon Lord",
@@ -16,12 +61,7 @@
       "Sci-Fi & Fantasy",
       "Animation"
     ],
-    "Genres": [
-      "Action & Adventure",
-      "Comedy",
-      "Sci-Fi & Fantasy",
-      "Animation"
-    ],
+    "Genres": "Action & Adventure,Comedy,Sci-Fi & Fantasy,Animation",
     "overview": "Sakamoto Takuma was so strong in the MMORPG Cross Reverie that his fellow players came to call him the \"demon lord.\" One day, he gets summoned to another world in his avatar form, and meets two girls who both insist that they're the one who summoned him. They cast a spell used to enslave summoned beasts on him, but that activates his unique ability, Magic Reflect, and the girls end up being the ones put under the spell! And thus begins the otherworldly adventure of a demon lord (pretend) who blazes his own trail through overwhelming power.",
     "Overview": "Sakamoto Takuma was so strong in the MMORPG Cross Reverie that his fellow players came to call him the \"demon lord.\" One day, he gets summoned to another world in his avatar form, and meets two girls who both insist that they're the one who summoned him. They cast a spell used to enslave summoned beasts on him, but that activates his unique ability, Magic Reflect, and the girls end up being the ones put under the spell! And thus begins the otherworldly adventure of a demon lord (pretend) who blazes his own trail through overwhelming power.",
     "poster": "/oVozVLWMTej4CRBpfu0ehxofBHS.jpg",
