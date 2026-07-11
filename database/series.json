@@ -1,5 +1,50 @@
 [
   {
+    "id": "45857",
+    "tmdbID": "45857",
+    "title": "REBORN!",
+    "Title": "REBORN!",
+    "year": "2006",
+    "Year": "2006",
+    "vote": "8.2",
+    "Vote": "8.2",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Action & Adventure"
+    ],
+    "Genres": [
+      "Animation",
+      "Comedy",
+      "Action & Adventure"
+    ],
+    "overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
+    "Overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
+    "poster": "/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
+    "Poster": "/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
+    "backdrop": "/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+    "Backdrop": "/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+    "logo": "/h3RxtFf7fqSzVxaGwcRqXg8Lx8L.png",
+    "Logo": "/h3RxtFf7fqSzVxaGwcRqXg8Lx8L.png",
+    "runtime": "25",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 8,
+    "NumberOfSeasons": "8",
+    "episode_count": 203,
+    "NumberOfEpisodes": "203",
+    "trailer": "",
+    "Trailer": "",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "67126",
     "tmdbID": "67126",
     "title": "Himouto! Umaru-chan",
@@ -14,10 +59,7 @@
       "Animation",
       "Comedy"
     ],
-    "Genres": [
-      "Animation",
-      "Comedy"
-    ],
+    "Genres": "Animation,Comedy",
     "overview": "People are not always who they appear to be, as is the case with Umaru Doma, the perfect high school girl—that is, until she gets home! Once the front door closes, the real fun begins. When she dons her hamster hoodie, she transforms from a refined, over-achieving student into a lazy, junk food-eating otaku, leaving all the housework to her responsible older brother Taihei. Whether she's hanging out with her friends Nana Ebina and Kirie Motoba, or competing with her self-proclaimed \"rival\" Sylphinford Tachibana, Umaru knows how to kick back and have some fun!\n\nHimouto! Umaru-chan is a cute story that follows the daily adventures of Umaru and Taihei, as they take care of—and put up with—each other the best they can, as well as the unbreakable bonds between friends and siblings.",
     "Overview": "People are not always who they appear to be, as is the case with Umaru Doma, the perfect high school girl—that is, until she gets home! Once the front door closes, the real fun begins. When she dons her hamster hoodie, she transforms from a refined, over-achieving student into a lazy, junk food-eating otaku, leaving all the housework to her responsible older brother Taihei. Whether she's hanging out with her friends Nana Ebina and Kirie Motoba, or competing with her self-proclaimed \"rival\" Sylphinford Tachibana, Umaru knows how to kick back and have some fun!\n\nHimouto! Umaru-chan is a cute story that follows the daily adventures of Umaru and Taihei, as they take care of—and put up with—each other the best they can, as well as the unbreakable bonds between friends and siblings.",
     "poster": "/3Vif9pWDEWtQg0gTREOV4lBEBCP.jpg",
