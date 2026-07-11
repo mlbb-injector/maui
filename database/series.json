@@ -1,5 +1,48 @@
 [
   {
+    "id": "56355",
+    "tmdbID": "56355",
+    "title": "Hayate the Combat Butler",
+    "Title": "Hayate the Combat Butler",
+    "year": "2007",
+    "Year": "2007",
+    "vote": "6.571",
+    "Vote": "6.571",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "Genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "overview": "16-year-old Hayate is really down on his luck. Because his unemployed parents are good-for-nothings who waste what money they have on gambling, Hayate had to start working at a young age to help out his family. Although such experience has made him inhumanly fast and tough and skilled at things boys aren't normally skilled at, it has also left him in an awkward position, as his parents have racked up such a huge gambling debt that they have sold Hayate to the yakuza for the value of his organs. In a desperate attempt to avoid that fate, Hayate decides to become a \"bad guy\" and kidnap someone to be held for ransom, but his efforts to do so are mistaken as a confession of love by the girl he targets. When he helps save the (as it turns out) ultra-wealthy 13-year-old Nagi from real kidnappers, she takes him in and gives him a job as her new personal butler (and love interest) until he can pay off his debt. But Hayate is more attracted to Nagi's beautiful teenage maid Maria, and head butler Klaus is initially disapproving of a boy with such a poor look. And then there's Nagi's pet Tama, who is also a force to be reckoned with.",
+    "Overview": "16-year-old Hayate is really down on his luck. Because his unemployed parents are good-for-nothings who waste what money they have on gambling, Hayate had to start working at a young age to help out his family. Although such experience has made him inhumanly fast and tough and skilled at things boys aren't normally skilled at, it has also left him in an awkward position, as his parents have racked up such a huge gambling debt that they have sold Hayate to the yakuza for the value of his organs. In a desperate attempt to avoid that fate, Hayate decides to become a \"bad guy\" and kidnap someone to be held for ransom, but his efforts to do so are mistaken as a confession of love by the girl he targets. When he helps save the (as it turns out) ultra-wealthy 13-year-old Nagi from real kidnappers, she takes him in and gives him a job as her new personal butler (and love interest) until he can pay off his debt. But Hayate is more attracted to Nagi's beautiful teenage maid Maria, and head butler Klaus is initially disapproving of a boy with such a poor look. And then there's Nagi's pet Tama, who is also a force to be reckoned with.",
+    "poster": "/kXNV13f4MiJZJ1oQqwsjetqbn2x.jpg",
+    "Poster": "/kXNV13f4MiJZJ1oQqwsjetqbn2x.jpg",
+    "backdrop": "/iJ5G4z3729y05kwt2Js0d98AxFL.jpg",
+    "Backdrop": "/iJ5G4z3729y05kwt2Js0d98AxFL.jpg",
+    "logo": "",
+    "Logo": "",
+    "runtime": "25",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 4,
+    "NumberOfSeasons": "4",
+    "episode_count": 101,
+    "NumberOfEpisodes": "101",
+    "trailer": "",
+    "Trailer": "",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "42705",
     "tmdbID": "42705",
     "title": "Fighting Spirit",
