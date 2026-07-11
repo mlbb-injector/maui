@@ -1,5 +1,52 @@
 [
   {
+    "id": "62745",
+    "tmdbID": "62745",
+    "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+    "Title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+    "year": "2015",
+    "Year": "2015",
+    "vote": "7.314",
+    "Vote": "7.314",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Comedy",
+      "Action & Adventure"
+    ],
+    "Genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Comedy",
+      "Action & Adventure"
+    ],
+    "overview": "In Orario, fearless adventurers band together in search of fame and fortune within the underground labyrinth known as the Dungeon. But Bell Cranel, novice adventurer, has bigger plans than riches and glory; he fights monsters in the hope of having a fateful encounter with a girl. When this happens, it doesn't go exactly as he planned. Thus begins the story of an unlikely pair, a boy and a goddess, both trying to prove themselves, both eager to reach their goals.",
+    "Overview": "In Orario, fearless adventurers band together in search of fame and fortune within the underground labyrinth known as the Dungeon. But Bell Cranel, novice adventurer, has bigger plans than riches and glory; he fights monsters in the hope of having a fateful encounter with a girl. When this happens, it doesn't go exactly as he planned. Thus begins the story of an unlikely pair, a boy and a goddess, both trying to prove themselves, both eager to reach their goals.",
+    "poster": "/h97iHupymkJXBv0gyr4qlePhKAk.jpg",
+    "Poster": "/h97iHupymkJXBv0gyr4qlePhKAk.jpg",
+    "backdrop": "/xCmdeEvJNxptR30bEVXXWLrt4iI.jpg",
+    "Backdrop": "/xCmdeEvJNxptR30bEVXXWLrt4iI.jpg",
+    "logo": "/fds7WouJOLo8lYYaGcUhIruw9M7.png",
+    "Logo": "/fds7WouJOLo8lYYaGcUhIruw9M7.png",
+    "runtime": "23",
+    "status": "Returning Series",
+    "SeriesStatus": "Returning Series",
+    "season_count": 5,
+    "NumberOfSeasons": "5",
+    "episode_count": 74,
+    "NumberOfEpisodes": "74",
+    "trailer": "Nk23ix2xgTg",
+    "Trailer": "Nk23ix2xgTg",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "35610",
     "tmdbID": "35610",
     "title": "InuYasha",
@@ -15,11 +62,7 @@
       "Action & Adventure",
       "Sci-Fi & Fantasy"
     ],
-    "Genres": [
-      "Animation",
-      "Action & Adventure",
-      "Sci-Fi & Fantasy"
-    ],
+    "Genres": "Animation,Action & Adventure,Sci-Fi & Fantasy",
     "overview": "Kagome Higurashi is a modern day young girl who lives with her family by the old Higure shrine. Unbeknownst to Kagome, she is the reincarnation of priestess Kikyo and posseses the \"Jewel of Four Souls\" (the Shikon jewel). One ill-fated day, Kagome locates an ancient well near her home and is abruptly transported through the well and into a feudal Japan, inhabited by demons. There, she encounters Inuyasha, son of a powerful demon father and a human mother, who is pinned to a tree by an enchanted arrow.",
     "Overview": "Kagome Higurashi is a modern day young girl who lives with her family by the old Higure shrine. Unbeknownst to Kagome, she is the reincarnation of priestess Kikyo and posseses the \"Jewel of Four Souls\" (the Shikon jewel). One ill-fated day, Kagome locates an ancient well near her home and is abruptly transported through the well and into a feudal Japan, inhabited by demons. There, she encounters Inuyasha, son of a powerful demon father and a human mother, who is pinned to a tree by an enchanted arrow.",
     "poster": "/rQHTNaynedeKurm0sNOsbAZg2oe.jpg",
