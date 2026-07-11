@@ -1,0 +1,46 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "Two boys who were bitter volleyball rivals in middle school join forces on their high school team to take on other schools with a vengeance.",
+    "air_date": "2014-04-06",
+    "episode_count": "25",
+    "poster_path": "/1Rfa9o5H6ZlXzbDVNlw4jULdXpi.jpg",
+    "id": "60937",
+    "vote_average": "8.4"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "Hinata, Kageyama and the rest of Team Karasuno head to Nekoma's special training camp in Tokyo to prepare for the Spring High Tournament.",
+    "air_date": "2015-10-04",
+    "episode_count": "25",
+    "poster_path": "/3TUUTiiuvjKg8BcnrGbuuj2Ov5L.jpg",
+    "id": "71126",
+    "vote_average": "8.2"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Karasuno High School vs Shiratorizawa Academy",
+    "overview": "The Karasuno High volleyball team has finally made it to the Miyagi Prefectural finals. But they're up against the reigning champs: Shiratorizawa.",
+    "air_date": "2016-10-08",
+    "episode_count": "10",
+    "poster_path": "/deFGQIm9cKYGr2xt136RUnA9sb5.jpg",
+    "id": "76038",
+    "vote_average": "9"
+  },
+  {
+    "season": "4",
+    "season_number": "4",
+    "name": "TO THE TOP",
+    "overview": "New challenges lie ahead as the team prepares for Nationals. But when Kageyama is invited to a training camp, Hinata takes matters into his own hands.",
+    "air_date": "2020-01-11",
+    "episode_count": "25",
+    "poster_path": "/zfOWZf3rMkgaXXNKOSTL33RBchx.jpg",
+    "id": "120031",
+    "vote_average": "8.1"
+  }
+]
