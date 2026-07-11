@@ -1,0 +1,35 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "The First Step",
+    "overview": "",
+    "air_date": "2000-10-03",
+    "episode_count": "75",
+    "poster_path": "/oG4xyOhHfNpsYXQysE7bYh3FBtX.jpg",
+    "id": "52311",
+    "vote_average": "8.6"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "New Challenger",
+    "overview": "Ippo Makunouchi continues his boxing career and his goal on knowing the meaning of being strong, and the desire on fighting his idol Ichiro Miyata once again. Along him are pro boxers Takamura, Aoki and Kimura that each one of them aspire to their own dreams. the continuation after Ippo won his Japan Championship match.",
+    "air_date": "2009-01-06",
+    "episode_count": "26",
+    "poster_path": "/rGS2jgda82oWXRcd0cejcWQzXLQ.jpg",
+    "id": "52313",
+    "vote_average": "8.1"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Rising",
+    "overview": "Hajime no Ippo: Rising continues Ippo's quest to become stronger, featuring the same cast of loveable dimwits from Kamogawa Gym, as they put their bodies and hearts on the line to make their way in the harsh world of professional boxing. With a will of iron, Ippo steps into the ring once again.",
+    "air_date": "2013-10-06",
+    "episode_count": "25",
+    "poster_path": "/7sQCTSoE2YLLj2YuyMycwsh3TFc.jpg",
+    "id": "59715",
+    "vote_average": "8.6"
+  }
+]
