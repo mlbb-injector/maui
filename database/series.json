@@ -1,5 +1,50 @@
 [
   {
+    "id": "30669",
+    "tmdbID": "30669",
+    "title": "Yu Yu Hakusho",
+    "Title": "Yu Yu Hakusho",
+    "year": "1992",
+    "Year": "1992",
+    "vote": "8.458",
+    "Vote": "8.458",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "Genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "overview": "After dying to save a boy, delinquent tough guy Yusuke Urameshi is granted another chance at life by redeeming himself as a \"Spirit Detective.\"",
+    "Overview": "After dying to save a boy, delinquent tough guy Yusuke Urameshi is granted another chance at life by redeeming himself as a \"Spirit Detective.\"",
+    "poster": "/5OnjguJwkujo3R23w95EEX8eAEN.jpg",
+    "Poster": "/5OnjguJwkujo3R23w95EEX8eAEN.jpg",
+    "backdrop": "/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+    "Backdrop": "/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+    "logo": "/gsEYn1A92S8DUokWYILhJZBEQHQ.png",
+    "Logo": "/gsEYn1A92S8DUokWYILhJZBEQHQ.png",
+    "runtime": "24",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 4,
+    "NumberOfSeasons": "4",
+    "episode_count": 112,
+    "NumberOfEpisodes": "112",
+    "trailer": "AtjinyUUh6w",
+    "Trailer": "AtjinyUUh6w",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "62883",
     "tmdbID": "62883",
     "title": "GetBackers",
@@ -17,13 +62,7 @@
       "Drama",
       "Sci-Fi & Fantasy"
     ],
-    "Genres": [
-      "Action & Adventure",
-      "Animation",
-      "Comedy",
-      "Drama",
-      "Sci-Fi & Fantasy"
-    ],
+    "Genres": "Action & Adventure,Animation,Comedy,Drama,Sci-Fi & Fantasy",
     "overview": "Ban Mido and Ginji Amano run a freelance business of recovering anything lost or stolen. They call themselves the GetBackers, and they're a super powered duo.",
     "Overview": "Ban Mido and Ginji Amano run a freelance business of recovering anything lost or stolen. They call themselves the GetBackers, and they're a super powered duo.",
     "poster": "/22WtfwbpWM1RFUTh5l4qfW2xCgl.jpg",
