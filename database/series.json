@@ -1,5 +1,50 @@
 [
   {
+    "id": "45783",
+    "tmdbID": "45783",
+    "title": "Kuroko's Basketball",
+    "Title": "Kuroko's Basketball",
+    "year": "2012",
+    "Year": "2012",
+    "vote": "8.4",
+    "Vote": "8.4",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "Genres": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "overview": "In the story, Kagami Taiga has just enrolled into Seirin High School when he meets Kuroko Tetsuya of the school's basketball team. Kuroko happens to be the shadowy sixth member of the legendary Generation of Miracles basketball team. Together, Kagami and Kuroko aim to take their team to the inter-high school championship - against Kuroko's former teammates.",
+    "Overview": "In the story, Kagami Taiga has just enrolled into Seirin High School when he meets Kuroko Tetsuya of the school's basketball team. Kuroko happens to be the shadowy sixth member of the legendary Generation of Miracles basketball team. Together, Kagami and Kuroko aim to take their team to the inter-high school championship - against Kuroko's former teammates.",
+    "poster": "/qi8dlAgQEeahpEn1AOb5BJEOcVB.jpg",
+    "Poster": "/qi8dlAgQEeahpEn1AOb5BJEOcVB.jpg",
+    "backdrop": "/fOyOP702oDeGyM2H4I8mQ5pdKne.jpg",
+    "Backdrop": "/fOyOP702oDeGyM2H4I8mQ5pdKne.jpg",
+    "logo": "/5L5ZxmdUPFjEgXu9elG53dhtkII.png",
+    "Logo": "/5L5ZxmdUPFjEgXu9elG53dhtkII.png",
+    "runtime": "24",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 3,
+    "NumberOfSeasons": "3",
+    "episode_count": 75,
+    "NumberOfEpisodes": "75",
+    "trailer": "1KLvA6FMNiE",
+    "Trailer": "1KLvA6FMNiE",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "95479",
     "tmdbID": "95479",
     "title": "JUJUTSU KAISEN",
@@ -15,11 +60,7 @@
       "Action & Adventure",
       "Sci-Fi & Fantasy"
     ],
-    "Genres": [
-      "Animation",
-      "Action & Adventure",
-      "Sci-Fi & Fantasy"
-    ],
+    "Genres": "Animation,Action & Adventure,Sci-Fi & Fantasy",
     "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
     "Overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
     "poster": "/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
