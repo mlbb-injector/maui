@@ -1,5 +1,48 @@
 [
   {
+    "id": "42912",
+    "tmdbID": "42912",
+    "title": "Inazuma Eleven",
+    "Title": "Inazuma Eleven",
+    "year": "2008",
+    "Year": "2008",
+    "vote": "8.026",
+    "Vote": "8.026",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "Genres": [
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "overview": "Mamoru Endou is a cheerful goalkeeper in Raimon Jr High, with six other players in the team. But there was a day when the team was almost lead to disbandment by Natsumi unless they are able to win the match against the Teikoku Gakuen, currently the best team in Japan. He tried to save the club by gathering four more players to join the team.",
+    "Overview": "Mamoru Endou is a cheerful goalkeeper in Raimon Jr High, with six other players in the team. But there was a day when the team was almost lead to disbandment by Natsumi unless they are able to win the match against the Teikoku Gakuen, currently the best team in Japan. He tried to save the club by gathering four more players to join the team.",
+    "poster": "/9kQWvBMPWz1gykKLXuX6JBjC9uQ.jpg",
+    "Poster": "/9kQWvBMPWz1gykKLXuX6JBjC9uQ.jpg",
+    "backdrop": "/zhtEYosjlYtNavbvImxcs36We4i.jpg",
+    "Backdrop": "/zhtEYosjlYtNavbvImxcs36We4i.jpg",
+    "logo": "/4TzAt5RXgFLV2JIziQsM0VCBH94.png",
+    "Logo": "/4TzAt5RXgFLV2JIziQsM0VCBH94.png",
+    "runtime": "24",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 4,
+    "NumberOfSeasons": "4",
+    "episode_count": 268,
+    "NumberOfEpisodes": "268",
+    "trailer": "y-vmhUs-iNw",
+    "Trailer": "y-vmhUs-iNw",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "46298",
     "tmdbID": "46298",
     "title": "Hunter x Hunter",
