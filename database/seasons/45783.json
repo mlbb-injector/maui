@@ -1,0 +1,35 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "",
+    "air_date": "2012-04-08",
+    "episode_count": "25",
+    "poster_path": "/lJJ8cWm9CYu6ZRJp1q93qjxuHZ1.jpg",
+    "id": "54257",
+    "vote_average": "6.1"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "",
+    "air_date": "2013-10-06",
+    "episode_count": "25",
+    "poster_path": "/bQxX2ZDkwrTMxC1XUGl4uNlZv7r.jpg",
+    "id": "54259",
+    "vote_average": "5.9"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Season 3",
+    "overview": "",
+    "air_date": "2015-01-10",
+    "episode_count": "25",
+    "poster_path": "/6xusGgDFKnkjQdrgZEf17TRm9wV.jpg",
+    "id": "77656",
+    "vote_average": "6.5"
+  }
+]
