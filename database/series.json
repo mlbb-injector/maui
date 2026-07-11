@@ -1,5 +1,50 @@
 [
   {
+    "id": "23787",
+    "tmdbID": "23787",
+    "title": "Hell Teacher Nube",
+    "Title": "Hell Teacher Nube",
+    "year": "1996",
+    "Year": "1996",
+    "vote": "8.269",
+    "Vote": "8.269",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "Genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "overview": "Nueno Mesuke, better known as Nube, is a school teacher who does more than just teach. You see, Nube's left hand is a huge, nasty-looking demon's claw. He uses it to get rid of malicious demons, ghosts, spirits and other supernatural beings that are giving his students a hard time. Nube's left hand was normal, until one fateful day when he exorcised an extremely powerful demon from a child. He was outmatched and lost his left hand. The only way to fight it was to let it enter his body. As a result, Nube has a demonic left hand where his own hand used to be.\n\nTo educate and protect — that is what Jigoku Sensei Nube does.",
+    "Overview": "Nueno Mesuke, better known as Nube, is a school teacher who does more than just teach. You see, Nube's left hand is a huge, nasty-looking demon's claw. He uses it to get rid of malicious demons, ghosts, spirits and other supernatural beings that are giving his students a hard time. Nube's left hand was normal, until one fateful day when he exorcised an extremely powerful demon from a child. He was outmatched and lost his left hand. The only way to fight it was to let it enter his body. As a result, Nube has a demonic left hand where his own hand used to be.\n\nTo educate and protect — that is what Jigoku Sensei Nube does.",
+    "poster": "/6NkKPwyJKE8aFWt7uGLglVVKiEp.jpg",
+    "Poster": "/6NkKPwyJKE8aFWt7uGLglVVKiEp.jpg",
+    "backdrop": "/rinfbZOAJHK2yGdMmHOjpBzDbnl.jpg",
+    "Backdrop": "/rinfbZOAJHK2yGdMmHOjpBzDbnl.jpg",
+    "logo": "",
+    "Logo": "",
+    "runtime": "23",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 1,
+    "NumberOfSeasons": "1",
+    "episode_count": 49,
+    "NumberOfEpisodes": "49",
+    "trailer": "",
+    "Trailer": "",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "8974",
     "tmdbID": "8974",
     "title": "Hell Girl",
@@ -16,12 +61,7 @@
       "Mystery",
       "Sci-Fi & Fantasy"
     ],
-    "Genres": [
-      "Animation",
-      "Drama",
-      "Mystery",
-      "Sci-Fi & Fantasy"
-    ],
+    "Genres": "Animation,Drama,Mystery,Sci-Fi & Fantasy",
     "overview": "A supernatural system allows people to take revenge by having other people sent to Hell via the services of a mysterious entity and her assistants who implement this system. Revenge, injustice, hatred, and the nature of human emotions are common themes throughout the series.",
     "Overview": "A supernatural system allows people to take revenge by having other people sent to Hell via the services of a mysterious entity and her assistants who implement this system. Revenge, injustice, hatred, and the nature of human emotions are common themes throughout the series.",
     "poster": "/l50Wjrt2m362DjsKZVTpU2sp5L5.jpg",
