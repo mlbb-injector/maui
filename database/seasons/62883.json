@@ -1,0 +1,24 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "",
+    "air_date": "2002-10-05",
+    "episode_count": "25",
+    "poster_path": "/tHKB6hngk7NVOQFogWGict6Caqi.jpg",
+    "id": "67428",
+    "vote_average": "0"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "",
+    "air_date": "2003-04-12",
+    "episode_count": "24",
+    "poster_path": "/pZgZ7PeAy3jX0AGvKd8f6ANf7nL.jpg",
+    "id": "67529",
+    "vote_average": "0"
+  }
+]
