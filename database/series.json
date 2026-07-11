@@ -1,5 +1,52 @@
 [
   {
+    "id": "65369",
+    "tmdbID": "65369",
+    "title": "Grimgar of Fantasy and Ash",
+    "Title": "Grimgar of Fantasy and Ash",
+    "year": "2016",
+    "Year": "2016",
+    "vote": "7.4",
+    "Vote": "7.4",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "Genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "overview": "When Haruhiro awakens, he’s in the dark surrounded by people who have no memory of where they came from or how they got there. As the darkness fades, a fantastic new world called “Grimgar” appears before them and their adventure begins—but first, they’ll have to choose their guild, class, and special abilities.",
+    "Overview": "When Haruhiro awakens, he’s in the dark surrounded by people who have no memory of where they came from or how they got there. As the darkness fades, a fantastic new world called “Grimgar” appears before them and their adventure begins—but first, they’ll have to choose their guild, class, and special abilities.",
+    "poster": "/vDs4SVtbEcklxseEoeTV5B5U3n.jpg",
+    "Poster": "/vDs4SVtbEcklxseEoeTV5B5U3n.jpg",
+    "backdrop": "/2VbLfSlnPaxGmyhtuV12aFsg5HL.jpg",
+    "Backdrop": "/2VbLfSlnPaxGmyhtuV12aFsg5HL.jpg",
+    "logo": "/A4V6ACWfRc5mkhtpJ3Vrabdkwfh.png",
+    "Logo": "/A4V6ACWfRc5mkhtpJ3Vrabdkwfh.png",
+    "runtime": "24",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 1,
+    "NumberOfSeasons": "1",
+    "episode_count": 12,
+    "NumberOfEpisodes": "12",
+    "trailer": "OBg94-Uwjos",
+    "Trailer": "OBg94-Uwjos",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "57041",
     "tmdbID": "57041",
     "title": "Gintama",
@@ -15,11 +62,7 @@
       "Action & Adventure",
       "Sci-Fi & Fantasy"
     ],
-    "Genres": [
-      "Animation",
-      "Action & Adventure",
-      "Sci-Fi & Fantasy"
-    ],
+    "Genres": "Animation,Action & Adventure,Sci-Fi & Fantasy",
     "overview": "In a world where aliens have invaded Edo Period Japan, skyscrapers, trains and motor bikes have replaced the simple life of Earth inhabitants. One man however, still carries the soul of a samurai, Gintoki Sakata, otherwise known as Yorozuya Gin-san. As reckless as he is, Gintoki carries his own resolve and is ready to take on any challenge with his fellow companions.",
     "Overview": "In a world where aliens have invaded Edo Period Japan, skyscrapers, trains and motor bikes have replaced the simple life of Earth inhabitants. One man however, still carries the soul of a samurai, Gintoki Sakata, otherwise known as Yorozuya Gin-san. As reckless as he is, Gintoki carries his own resolve and is ready to take on any challenge with his fellow companions.",
     "poster": "/f7vK8pzZIqhyA8sYmBpWmp9Ae7.jpg",
