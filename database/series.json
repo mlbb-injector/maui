@@ -1,5 +1,50 @@
 [
   {
+    "id": "57041",
+    "tmdbID": "57041",
+    "title": "Gintama",
+    "Title": "Gintama",
+    "year": "2006",
+    "Year": "2006",
+    "vote": "8.115",
+    "Vote": "8.115",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "Genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "overview": "In a world where aliens have invaded Edo Period Japan, skyscrapers, trains and motor bikes have replaced the simple life of Earth inhabitants. One man however, still carries the soul of a samurai, Gintoki Sakata, otherwise known as Yorozuya Gin-san. As reckless as he is, Gintoki carries his own resolve and is ready to take on any challenge with his fellow companions.",
+    "Overview": "In a world where aliens have invaded Edo Period Japan, skyscrapers, trains and motor bikes have replaced the simple life of Earth inhabitants. One man however, still carries the soul of a samurai, Gintoki Sakata, otherwise known as Yorozuya Gin-san. As reckless as he is, Gintoki carries his own resolve and is ready to take on any challenge with his fellow companions.",
+    "poster": "/f7vK8pzZIqhyA8sYmBpWmp9Ae7.jpg",
+    "Poster": "/f7vK8pzZIqhyA8sYmBpWmp9Ae7.jpg",
+    "backdrop": "/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
+    "Backdrop": "/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
+    "logo": "/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
+    "Logo": "/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
+    "runtime": "24",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 11,
+    "NumberOfSeasons": "11",
+    "episode_count": 367,
+    "NumberOfEpisodes": "367",
+    "trailer": "5IFAvOQIGsg",
+    "Trailer": "5IFAvOQIGsg",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "We're Odd Jobs Gin!",
+    "Tagline": "We're Odd Jobs Gin!",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "30669",
     "tmdbID": "30669",
     "title": "Yu Yu Hakusho",
@@ -15,11 +60,7 @@
       "Action & Adventure",
       "Sci-Fi & Fantasy"
     ],
-    "Genres": [
-      "Animation",
-      "Action & Adventure",
-      "Sci-Fi & Fantasy"
-    ],
+    "Genres": "Animation,Action & Adventure,Sci-Fi & Fantasy",
     "overview": "After dying to save a boy, delinquent tough guy Yusuke Urameshi is granted another chance at life by redeeming himself as a \"Spirit Detective.\"",
     "Overview": "After dying to save a boy, delinquent tough guy Yusuke Urameshi is granted another chance at life by redeeming himself as a \"Spirit Detective.\"",
     "poster": "/5OnjguJwkujo3R23w95EEX8eAEN.jpg",
