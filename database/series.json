@@ -1,5 +1,52 @@
 [
   {
+    "id": "240",
+    "tmdbID": "240",
+    "title": "Jackie Chan Adventures",
+    "Title": "Jackie Chan Adventures",
+    "year": "2000",
+    "Year": "2000",
+    "vote": "8.2",
+    "Vote": "8.2",
+    "language": "en",
+    "Language": "en",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "Genres": [
+      "Action & Adventure",
+      "Animation",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "overview": "Archaeologist Jackie Chan joins forces with his adventurous 11-year-old niece, Jade, to race around the world in search of twelve powerful magical talismans before they fall into the hands of the sinister Dark Hand crime syndicate. Along the way, they're aided by Uncle, Jackie's eccentric yet brilliant uncle, whose ancient knowledge and mystical expertise often prove to be the key to defeating dark forces.",
+    "Overview": "Archaeologist Jackie Chan joins forces with his adventurous 11-year-old niece, Jade, to race around the world in search of twelve powerful magical talismans before they fall into the hands of the sinister Dark Hand crime syndicate. Along the way, they're aided by Uncle, Jackie's eccentric yet brilliant uncle, whose ancient knowledge and mystical expertise often prove to be the key to defeating dark forces.",
+    "poster": "/by2GTFpd2BQ5uJxWPlfcmfrNrfB.jpg",
+    "Poster": "/by2GTFpd2BQ5uJxWPlfcmfrNrfB.jpg",
+    "backdrop": "/cjvyqIvCKQtUzd3J5TbVnCFbSNZ.jpg",
+    "Backdrop": "/cjvyqIvCKQtUzd3J5TbVnCFbSNZ.jpg",
+    "logo": "/hWATUv2vlB83rAYFvsVJ2QajwYJ.png",
+    "Logo": "/hWATUv2vlB83rAYFvsVJ2QajwYJ.png",
+    "runtime": "20",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 5,
+    "NumberOfSeasons": "5",
+    "episode_count": 95,
+    "NumberOfEpisodes": "95",
+    "trailer": "",
+    "Trailer": "",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "62745",
     "tmdbID": "62745",
     "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
@@ -16,12 +63,7 @@
       "Comedy",
       "Action & Adventure"
     ],
-    "Genres": [
-      "Animation",
-      "Sci-Fi & Fantasy",
-      "Comedy",
-      "Action & Adventure"
-    ],
+    "Genres": "Animation,Sci-Fi & Fantasy,Comedy,Action & Adventure",
     "overview": "In Orario, fearless adventurers band together in search of fame and fortune within the underground labyrinth known as the Dungeon. But Bell Cranel, novice adventurer, has bigger plans than riches and glory; he fights monsters in the hope of having a fateful encounter with a girl. When this happens, it doesn't go exactly as he planned. Thus begins the story of an unlikely pair, a boy and a goddess, both trying to prove themselves, both eager to reach their goals.",
     "Overview": "In Orario, fearless adventurers band together in search of fame and fortune within the underground labyrinth known as the Dungeon. But Bell Cranel, novice adventurer, has bigger plans than riches and glory; he fights monsters in the hope of having a fateful encounter with a girl. When this happens, it doesn't go exactly as he planned. Thus begins the story of an unlikely pair, a boy and a goddess, both trying to prove themselves, both eager to reach their goals.",
     "poster": "/h97iHupymkJXBv0gyr4qlePhKAk.jpg",
