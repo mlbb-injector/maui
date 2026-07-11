@@ -1,5 +1,50 @@
 [
   {
+    "id": "35610",
+    "tmdbID": "35610",
+    "title": "InuYasha",
+    "Title": "InuYasha",
+    "year": "2000",
+    "Year": "2000",
+    "vote": "8.574",
+    "Vote": "8.574",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "Genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "overview": "Kagome Higurashi is a modern day young girl who lives with her family by the old Higure shrine. Unbeknownst to Kagome, she is the reincarnation of priestess Kikyo and posseses the \"Jewel of Four Souls\" (the Shikon jewel). One ill-fated day, Kagome locates an ancient well near her home and is abruptly transported through the well and into a feudal Japan, inhabited by demons. There, she encounters Inuyasha, son of a powerful demon father and a human mother, who is pinned to a tree by an enchanted arrow.",
+    "Overview": "Kagome Higurashi is a modern day young girl who lives with her family by the old Higure shrine. Unbeknownst to Kagome, she is the reincarnation of priestess Kikyo and posseses the \"Jewel of Four Souls\" (the Shikon jewel). One ill-fated day, Kagome locates an ancient well near her home and is abruptly transported through the well and into a feudal Japan, inhabited by demons. There, she encounters Inuyasha, son of a powerful demon father and a human mother, who is pinned to a tree by an enchanted arrow.",
+    "poster": "/rQHTNaynedeKurm0sNOsbAZg2oe.jpg",
+    "Poster": "/rQHTNaynedeKurm0sNOsbAZg2oe.jpg",
+    "backdrop": "/mVE1ULmLaYhCkBQPt3JC5xZC6T6.jpg",
+    "Backdrop": "/mVE1ULmLaYhCkBQPt3JC5xZC6T6.jpg",
+    "logo": "/l2JVIEVh7edX8J9vZVGLkVbf8VN.png",
+    "Logo": "/l2JVIEVh7edX8J9vZVGLkVbf8VN.png",
+    "runtime": "24",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 2,
+    "NumberOfSeasons": "2",
+    "episode_count": 193,
+    "NumberOfEpisodes": "193",
+    "trailer": "UCFBsLagBPk",
+    "Trailer": "UCFBsLagBPk",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "42912",
     "tmdbID": "42912",
     "title": "Inazuma Eleven",
@@ -14,10 +59,7 @@
       "Animation",
       "Sci-Fi & Fantasy"
     ],
-    "Genres": [
-      "Animation",
-      "Sci-Fi & Fantasy"
-    ],
+    "Genres": "Animation,Sci-Fi & Fantasy",
     "overview": "Mamoru Endou is a cheerful goalkeeper in Raimon Jr High, with six other players in the team. But there was a day when the team was almost lead to disbandment by Natsumi unless they are able to win the match against the Teikoku Gakuen, currently the best team in Japan. He tried to save the club by gathering four more players to join the team.",
     "Overview": "Mamoru Endou is a cheerful goalkeeper in Raimon Jr High, with six other players in the team. But there was a day when the team was almost lead to disbandment by Natsumi unless they are able to win the match against the Teikoku Gakuen, currently the best team in Japan. He tried to save the club by gathering four more players to join the team.",
     "poster": "/9kQWvBMPWz1gykKLXuX6JBjC9uQ.jpg",
