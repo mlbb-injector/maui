@@ -1,0 +1,35 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Season 1",
+    "overview": "A spy, an assassin and a telepath come together to pose as a family, each for their own reasons, while hiding their true identities from each other.",
+    "air_date": "2022-04-09",
+    "episode_count": "25",
+    "poster_path": "/l5YWziTwsLMkpSyWGx149uidb8m.jpg",
+    "id": "184428",
+    "vote_average": "7.8"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Season 2",
+    "overview": "Yor and Loid may be keeping their true identities from each other, but telepathic Anya knows everything. Now, as they set sail on a luxury cruise, Yor must stop a group of assassins from reaching their target—while Loid struggles with a different mission altogether: figuring out what a good father is supposed to do on vacation.",
+    "air_date": "2023-10-07",
+    "episode_count": "12",
+    "poster_path": "/4zWbXIrCMMnXHktdHtrNkOV1eYH.jpg",
+    "id": "342836",
+    "vote_average": "7.7"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Season 3",
+    "overview": "The cold war between Ostania and Westalis continues with a terrible strawberry shortage. Fiona Frost, AKA Nightfall, tries to solve the crisis before it becomes too much. Perhaps, the bigger question is whether or not the entire Forger family can thwart an enraged construction worker from going on a rampage without letting each other in on their secrets.",
+    "air_date": "2025-10-04",
+    "episode_count": "13",
+    "poster_path": "/dAJMMOtzTDw8sObrvY26JLMTMRU.jpg",
+    "id": "397697",
+    "vote_average": "8"
+  }
+]
