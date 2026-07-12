@@ -1,5 +1,50 @@
 [
   {
+    "id": "120089",
+    "tmdbID": "120089",
+    "title": "SPY x FAMILY",
+    "Title": "SPY x FAMILY",
+    "year": "2022",
+    "Year": "2022",
+    "vote": "8.507",
+    "Vote": "8.507",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Comedy"
+    ],
+    "Genres": [
+      "Animation",
+      "Action & Adventure",
+      "Comedy"
+    ],
+    "overview": "A spy, an assassin and a telepath come together to pose as a family, each for their own reasons, while hiding their true identities from each other.",
+    "Overview": "A spy, an assassin and a telepath come together to pose as a family, each for their own reasons, while hiding their true identities from each other.",
+    "poster": "/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+    "Poster": "/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+    "backdrop": "/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
+    "Backdrop": "/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
+    "logo": "/hbZ7fVgxEg50plxtQHpVyXAppCq.png",
+    "Logo": "/hbZ7fVgxEg50plxtQHpVyXAppCq.png",
+    "runtime": "24",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 3,
+    "NumberOfSeasons": "3",
+    "episode_count": 50,
+    "NumberOfEpisodes": "50",
+    "trailer": "JP6vBnazpWI",
+    "Trailer": "JP6vBnazpWI",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "The father... a spy. The mother... an assassin. The daughter... a telepath.",
+    "Tagline": "The father... a spy. The mother... an assassin. The daughter... a telepath.",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "42573",
     "tmdbID": "42573",
     "title": "Slam Dunk",
@@ -14,10 +59,7 @@
       "Animation",
       "Comedy"
     ],
-    "Genres": [
-      "Animation",
-      "Comedy"
-    ],
+    "Genres": "Animation,Comedy",
     "overview": "Sakuragi Hanamichi is a junior high punk used to getting into fights and being rejected by girls but upon entering high school he meets the girl of his dreams, Haruko Akagi. He will do anything in order to win her heart including joining the school basketball team that is aiming to conquer the nation lead by Haruko's brother. The problem is that Sakuragi has never played basketball before and a freshman sensation is stealing the spotlight and Haruko's affection from him.",
     "Overview": "Sakuragi Hanamichi is a junior high punk used to getting into fights and being rejected by girls but upon entering high school he meets the girl of his dreams, Haruko Akagi. He will do anything in order to win her heart including joining the school basketball team that is aiming to conquer the nation lead by Haruko's brother. The problem is that Sakuragi has never played basketball before and a freshman sensation is stealing the spotlight and Haruko's affection from him.",
     "poster": "/nmmOKeydeeO4TKucpvyMA2o6gdD.jpg",
