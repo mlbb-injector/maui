@@ -1,0 +1,46 @@
+[
+  {
+    "season": "1",
+    "season_number": "1",
+    "name": "Sword Art Online",
+    "overview": "In the near future, a Virtual Reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) called Sword Art Online has been released where players control their avatars with their bodies using a piece of technology called Nerve Gear. One day, players discover they cannot log out, as the game creator is holding them captive unless they reach the 100th floor of the game's tower and defeat the final boss. However, if they die in the game, they die in real life. Their struggle for survival starts now...",
+    "air_date": "2012-07-08",
+    "episode_count": "25",
+    "poster_path": "/is3J0fmMgmqVt3Shm6J5KtULTyq.jpg",
+    "id": "54255",
+    "vote_average": "7.6"
+  },
+  {
+    "season": "2",
+    "season_number": "2",
+    "name": "Sword Art Online II",
+    "overview": "A year after escaping Sword Art Online, Kazuto Kirigaya has been settling back into the real world. However, his peace is short-lived as a new incident occurs in a game called Gun Gale Online, where a player by the name of Death Gun appears to be killing people in the real world by shooting them in-game. Approached by officials to assist in investigating the murders, Kazuto assumes his persona of Kirito once again and logs into Gun Gale Online, intent on stopping the killer.",
+    "air_date": "2014-07-05",
+    "episode_count": "24",
+    "poster_path": "/eikzrWCrgaEuvNu8hcQHFeC3onR.jpg",
+    "id": "62067",
+    "vote_average": "7.1"
+  },
+  {
+    "season": "3",
+    "season_number": "3",
+    "name": "Sword Art Online Alicization",
+    "overview": "Kirito awakens in a vast, fantastical forest filled with towering trees. In his search for clues to the truth of his surroundings, he encounters a young boy who seems to know him. He ought to be a simple NPC, but the depth of his emotions seem no different than a human. As they search for the boy's parents, Kirito finds a peculiar memory returning to him. A memory from his own childhood, of this boy and a girl, too, with golden hair, and a name he should have never forgotten—Alice.",
+    "air_date": "2018-10-07",
+    "episode_count": "24",
+    "poster_path": "/vHYPL0ki5tevokmjOa2pofgpRxW.jpg",
+    "id": "93494",
+    "vote_average": "8.1"
+  },
+  {
+    "season": "4",
+    "season_number": "4",
+    "name": "Sword Art Online Alicization: War of Underworld",
+    "overview": "Time has passed since Kirito defeated the pontifex. While Bercoulli seeks to rebuild and bolster the defenses of the human lands in anticipation of an assault by the forces of darkness, Alice fears for the catatonic Kirito's safety and so relocates to a cabin near Rulid. She may not be accepted in the village, but at least she's near her sister Selka as she looks after Kirito. Though she feels that she cannot swing her sword anymore except to cut down trees, an attack on Rulid may force her to act anyway.",
+    "air_date": "2019-10-13",
+    "episode_count": "23",
+    "poster_path": "/zhOJXbvnJGs1eY91ezQaUrEjxtn.jpg",
+    "id": "132606",
+    "vote_average": "8.5"
+  }
+]
