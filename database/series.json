@@ -1,5 +1,50 @@
 [
   {
+    "id": "31910",
+    "tmdbID": "31910",
+    "title": "Naruto Shippūden",
+    "Title": "Naruto Shippūden",
+    "year": "2007",
+    "Year": "2007",
+    "vote": "8.532",
+    "Vote": "8.532",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "Genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
+    "Overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
+    "poster": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
+    "Poster": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
+    "backdrop": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
+    "Backdrop": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
+    "logo": "/qopvxH4C4YIoeJWss0EVLv13rgW.png",
+    "Logo": "/qopvxH4C4YIoeJWss0EVLv13rgW.png",
+    "runtime": "25",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 20,
+    "NumberOfSeasons": "20",
+    "episode_count": 500,
+    "NumberOfEpisodes": "500",
+    "trailer": "22R0j8UKRzY",
+    "Trailer": "22R0j8UKRzY",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "45782",
     "tmdbID": "45782",
     "title": "Sword Art Online",
@@ -15,11 +60,7 @@
       "Sci-Fi & Fantasy",
       "Action & Adventure"
     ],
-    "Genres": [
-      "Animation",
-      "Sci-Fi & Fantasy",
-      "Action & Adventure"
-    ],
+    "Genres": "Animation,Sci-Fi & Fantasy,Action & Adventure",
     "overview": "In the near future, a Virtual Reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) called Sword Art Online has been released where players control their avatars with their bodies using a piece of technology called Nerve Gear. One day, players discover they cannot log out, as the game creator is holding them captive unless they reach the 100th floor of the game's tower and defeat the final boss. However, if they die in the game, they die in real life. Their struggle for survival starts now...",
     "Overview": "In the near future, a Virtual Reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) called Sword Art Online has been released where players control their avatars with their bodies using a piece of technology called Nerve Gear. One day, players discover they cannot log out, as the game creator is holding them captive unless they reach the 100th floor of the game's tower and defeat the final boss. However, if they die in the game, they die in real life. Their struggle for survival starts now...",
     "poster": "/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
