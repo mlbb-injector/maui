@@ -1,6 +1,1020 @@
 [
   {
     "Adult": "false",
+    "Backdrop": "/9Ifb7kDdMH1yCg81oMoYsK7kDj3.jpg",
+    "Cast": [
+      {
+        "Name": "Kang Ha-neul",
+        "Character": "Woo Sang",
+        "Profile": "/wkSSMlvNNH4uAy3wcQ9xVZ4yHfW.jpg"
+      },
+      {
+        "Name": "Ha Seo-yoon",
+        "Character": "Matilda",
+        "Profile": "/aM6oIjzCjAGg8tyMVTdRR8Bg3rW.jpg"
+      },
+      {
+        "Name": "Kang Ha-kyung",
+        "Character": "Lee Jin-sung",
+        "Profile": "/nFHW4I2IX5F0ycHXE3qD2SWgTwe.jpg"
+      },
+      {
+        "Name": "Ha Hyun-soo",
+        "Character": "KJ5385",
+        "Profile": ""
+      },
+      {
+        "Name": "Han Jae-yeong",
+        "Character": "Man with Tattoo",
+        "Profile": "/pPro8M6ypFNNK75ClKsSecOkBiC.jpg"
+      },
+      {
+        "Name": "Kim Ki-doo",
+        "Character": "Tae-ho",
+        "Profile": "/fmTh73oW5YKc39o0zHNIhiHS9p5.jpg"
+      },
+      {
+        "Name": "Park Tae-san",
+        "Character": "Lollipark",
+        "Profile": "/3M0XhMnqHaaNKg1bPRFxPzsRPAu.jpg"
+      },
+      {
+        "Name": "Song Deok-ho",
+        "Character": "Oh Ryun-koo",
+        "Profile": "/ioVlXXrahe7hI8lWt0BwXdvZc6U.jpg"
+      },
+      {
+        "Name": "Lee Sang-mi",
+        "Character": "Han Ji-woo",
+        "Profile": "/jU3BdybBrSQngG1veerYtZkLcUg.jpg"
+      },
+      {
+        "Name": "Choo Suk-young",
+        "Character": "Delivery Man Team Leader",
+        "Profile": "/hLL8IrxEbbmaX8oI61XCNdEri2I.jpg"
+      },
+      {
+        "Name": "Yoon Ji-soo",
+        "Character": "Gangster 2",
+        "Profile": ""
+      }
+    ],
+    "ContentType": "Movie",
+    "Genres": "Thriller, Mystery, Crime",
+    "Language": "ko",
+    "Link": "https://terabox.app/s/1wqwdde9w6O4hHwQOa-4nWA",
+    "Logo": "",
+    "Overview": "No.1 subscribed live streamer, Woo Sang, specializes in criminal profiling and covering crime-related mystery cases. One day, Woo Sang streams about an unsolved serial murder case and ends up unveiling the truth to some dark secrets through his channel.",
+    "Poster": "/8P3SNXsCkkayjp1EKLVq2eKLGUY.jpg",
+    "PushKey": "-msom3rw9ouwzohiq2b",
+    "Runtime": "92",
+    "Size": "500 GB",
+    "Status": "Active",
+    "Tagline": "Live: Today's show will go wild.",
+    "Tags": "Thriller, Mystery, Crime",
+    "Title": "Streaming",
+    "Trailer": "E9mIOtwTo6Y",
+    "Type": "TMDB",
+    "Views": "0",
+    "Vote": "5",
+    "Year": "2025",
+    "imdbID": "tt26762096",
+    "tmdbID": "764842"
+  },
+  {
+    "Adult": "false",
+    "Backdrop": "/39CRS71VP0d9VOsJ5TVgD8IaQnT.jpg",
+    "Cast": [
+      {
+        "Name": "Lee Sun-kyun",
+        "Character": "Cha Jeong-won",
+        "Profile": "/nHFBbSFohzOUOvMxPVwe3Es2nJw.jpg"
+      },
+      {
+        "Name": "Ju Ji-hoon",
+        "Character": "Jo Park",
+        "Profile": "/7PYfUrBBXhYv5PIsTalJhjbRteg.jpg"
+      },
+      {
+        "Name": "Kim Hie-won",
+        "Character": "Doctor Yang",
+        "Profile": "/sDCxskfmmNidOjV2LwsWh9dAVbN.jpg"
+      },
+      {
+        "Name": "Moon Sung-keun",
+        "Character": "Byeong-hak",
+        "Profile": "/wQjOvAFqCItwMw7dxa486KnGgEE.jpg"
+      },
+      {
+        "Name": "Ye Su-jeong",
+        "Character": "Soon-ok",
+        "Profile": "/rwGPhu8Ge36eMkrOlzfdKKFargw.jpg"
+      },
+      {
+        "Name": "Kim Tae-woo",
+        "Character": "Jeong Hyeon-baek",
+        "Profile": "/wbuNQxRUdykKZgCiwchZYmPQMmJ.jpg"
+      },
+      {
+        "Name": "Park Hee-von",
+        "Character": "Sim Mi-ran",
+        "Profile": "/uSpV4VUiwffp6SdFxSmD56Sf6qU.jpg"
+      },
+      {
+        "Name": "Park Ju-hyun",
+        "Character": "Sim Yoo-ra",
+        "Profile": "/2xfmCqWWNE3wLAUg2WlByP9kvMP.jpg"
+      },
+      {
+        "Name": "Kim Su-an",
+        "Character": "Cha Kyeong-min",
+        "Profile": "/hmPZhhoeUY89Rys6LrsjpTMeoEN.jpg"
+      },
+      {
+        "Name": "Ha Do-kwon",
+        "Character": "Captain Kang",
+        "Profile": "/lOiNEmbHhMkX8mICJfu9R1kzC36.jpg"
+      },
+      {
+        "Name": "Jang Kwang",
+        "Character": "Defense Minister",
+        "Profile": "/t8xMsqeIe3YzdFNeeh43TPs7c1Y.jpg"
+      },
+      {
+        "Name": "Choi Jung-woo",
+        "Character": "Chief Secretary",
+        "Profile": "/doHUwUDRML1uo0PVVRXblGAJhN3.jpg"
+      }
+    ],
+    "ContentType": "Movie",
+    "Genres": "Thriller, Action, Horror, Science Fiction, Adventure",
+    "Language": "ko",
+    "Link": "https://terabox.app/s/18UgDg-ZVUPAm4oxk9bfVgA",
+    "Logo": "/vz7m1WfjyggpV3EsyMWqVeGCphU.png",
+    "Overview": "Due to sudden deteriorating weather conditions, visibility on the Airport Bridge is severely impaired, leaving people stranded and at risk of the bridge collapsing due to a series of chain collisions and explosions. Amidst the chaos, the canine subjects \"Echo\" from the military experiment \"Project Silence,\" who were being transported in secret, break free, and all human survivors become targets of relentless attacks.",
+    "Poster": "/55jsexep1uh1ieMwyJMVapTETMM.jpg",
+    "PushKey": "-msom2e08p2whg07ra4",
+    "Runtime": "96",
+    "Size": "500 GB",
+    "Status": "Active",
+    "Tagline": "Every survivor is a target.",
+    "Tags": "Thriller, Action, Horror, Science Fiction, Adventure",
+    "Title": "Project Silence",
+    "Trailer": "n9a4fIAIWZ0",
+    "Type": "TMDB",
+    "Views": "0",
+    "Vote": "6.863",
+    "Year": "2024",
+    "imdbID": "tt25808194",
+    "tmdbID": "726139"
+  },
+  {
+    "Adult": "false",
+    "Backdrop": "/2od4BJzNrc32kn97mmuzTAZmEXe.jpg",
+    "Cast": [
+      {
+        "Name": "Yoona",
+        "Character": "Seon-ji",
+        "Profile": "/JzAuAv17bWkLxVtfi9YJvQJhZl.jpg"
+      },
+      {
+        "Name": "Ahn Bo-hyun",
+        "Character": "Gil-gu",
+        "Profile": "/2pNNCnjI1TwxjyP3Y4cJln1wOKE.jpg"
+      },
+      {
+        "Name": "Sung Dong-il",
+        "Character": "Jang-su",
+        "Profile": "/9VLRIvOyQSHkpJaeaBcmHzcEUQn.jpg"
+      },
+      {
+        "Name": "Joo Hyun-young",
+        "Character": "Ah-ra",
+        "Profile": "/mOI26FtPFBfFn49MikjfaY4a3NU.jpg"
+      },
+      {
+        "Name": "Shin Hyun-soo",
+        "Character": "Yeong-sik",
+        "Profile": "/cvykHsetBrlq7PgTbbrUrzXhJUL.jpg"
+      },
+      {
+        "Name": "Ko Gun-han",
+        "Character": "Hee-bum",
+        "Profile": "/x9wPSUH71He1brPS4dsrcfN9flo.jpg"
+      },
+      {
+        "Name": "Han Jae-ah",
+        "Character": "Main body of Moon-yang",
+        "Profile": ""
+      },
+      {
+        "Name": "Song Deok-ho",
+        "Character": "Young Jang-su",
+        "Profile": "/ioVlXXrahe7hI8lWt0BwXdvZc6U.jpg"
+      },
+      {
+        "Name": "Park Eun-jin",
+        "Character": "Seon-ji's Mother",
+        "Profile": ""
+      },
+      {
+        "Name": "Jung Ji-woo",
+        "Character": "Seon-ji's Maternal Great-grandmother",
+        "Profile": ""
+      },
+      {
+        "Name": "Lee Si-rae",
+        "Character": "Seon-ji's Maternal Great-grandfather",
+        "Profile": "/lU40rwBgfmSvFsTQtVfs229wgLf.jpg"
+      },
+      {
+        "Name": "Na Gyeong-sook",
+        "Character": "Seon-ji's Maternal Great-grandmother's Mother-in-Law",
+        "Profile": ""
+      }
+    ],
+    "ContentType": "Movie",
+    "Genres": "Romance, Comedy, Mystery",
+    "Language": "ko",
+    "Link": "https://terabox.app/s/1hQdCmaTFSM7RreoVpvXcRA",
+    "Logo": "/8PWTurZoOcU7G7R1fiLS8SoJW6H.png",
+    "Overview": "A pastry chef apprentice lives unaware she becomes a wild she-devil nightly. Her family hires their neighbor to watch her night version, as he falls for her day self while seeking to break her curse.",
+    "Poster": "/uUYYdxEexDmKpKeXOTFqscjLidz.jpg",
+    "PushKey": "-msom1gveuhu7lw7jwi",
+    "Runtime": "113",
+    "Size": "500 GB",
+    "Status": "Active",
+    "Tagline": "Every night, she turns into a devil.",
+    "Tags": "Romance, Comedy, Mystery",
+    "Title": "Pretty Crazy",
+    "Trailer": "o9N1LQQ7Y9M",
+    "Type": "TMDB",
+    "Views": "0",
+    "Vote": "7.1",
+    "Year": "2025",
+    "imdbID": "tt35382678",
+    "tmdbID": "873797"
+  },
+  {
+    "Adult": "false",
+    "Backdrop": "/2vcdZBbf7sPPzIHfN5ial24UbxK.jpg",
+    "Cast": [
+      {
+        "Name": "Dacre Montgomery",
+        "Character": "Jason (Red Ranger)",
+        "Profile": "/v5zhoNq2RgnUEtSLAFLOPLTJWCT.jpg"
+      },
+      {
+        "Name": "RJ Cyler",
+        "Character": "Billy (Blue Ranger)",
+        "Profile": "/9baPsx4DJn2vy7AOfcfEe6IH5JN.jpg"
+      },
+      {
+        "Name": "Ludi Lin",
+        "Character": "Zack (Black Ranger)",
+        "Profile": "/9Ila4K8POeuVWRO9hzyekFjvCDk.jpg"
+      },
+      {
+        "Name": "Naomi Scott",
+        "Character": "Kimberly (Pink Ranger)",
+        "Profile": "/knSGMaEaH6CZaYw7GQpvxyJcsz7.jpg"
+      },
+      {
+        "Name": "Becky G",
+        "Character": "Trini (Yellow Ranger)",
+        "Profile": "/yF6UVV10zIdWhDOREouC9c8ZEPV.jpg"
+      },
+      {
+        "Name": "Bryan Cranston",
+        "Character": "Zordon",
+        "Profile": "/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
+      },
+      {
+        "Name": "Bill Hader",
+        "Character": "Alpha 5 (voice)",
+        "Profile": "/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg"
+      },
+      {
+        "Name": "Elizabeth Banks",
+        "Character": "Rita Repulsa",
+        "Profile": "/zrkI1dYucpTM8Qydtrtro9MgQPb.jpg"
+      },
+      {
+        "Name": "Fred Tatasciore",
+        "Character": "Goldar / Putties (voice)",
+        "Profile": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+      },
+      {
+        "Name": "David Denman",
+        "Character": "Sam Scott",
+        "Profile": "/4I06ZD8SQ6pU1QYShiUXb711fJW.jpg"
+      },
+      {
+        "Name": "Caroline Cave",
+        "Character": "Beverly Scott",
+        "Profile": "/lBiqZZL8HzSwjZ8150U7826mm1z.jpg"
+      },
+      {
+        "Name": "Kayden Magnuson",
+        "Character": "Pearl Scott",
+        "Profile": "/oZuOTxP3V2Y7QNH7lEt1ROTFuKi.jpg"
+      }
+    ],
+    "ContentType": "Movie",
+    "Genres": "Action, Adventure, Science Fiction",
+    "Language": "en",
+    "Link": "https://terabox.app/s/1Fvb46Xs1535RoNQTpZRr_w",
+    "Logo": "/5fpPk1A22E7L1Jzg5tEP152vvxd.png",
+    "Overview": "Five ordinary teens must become something extraordinary when they learn that their small town of Angel Grove — and the world — is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before it’s too late, band together as the Power Rangers.",
+    "Poster": "/bKYKyyIv5YnisxjZtDreWtYA386.jpg",
+    "PushKey": "-msom0pjjp3lbwrcgit",
+    "Runtime": "124",
+    "Size": "500 GB",
+    "Status": "Active",
+    "Tagline": "Together we are more.",
+    "Tags": "Action, Adventure, Science Fiction",
+    "Title": "Power Rangers",
+    "Trailer": "oFkulzWMotY",
+    "Type": "TMDB",
+    "Views": "0",
+    "Vote": "6.243",
+    "Year": "2017",
+    "imdbID": "tt3717490",
+    "tmdbID": "305470"
+  },
+  {
+    "Adult": "false",
+    "Backdrop": "/92PJmMopfy64VYjd0HvIQaHGZX0.jpg",
+    "Cast": [
+      {
+        "Name": "Michael Cera",
+        "Character": "Hank (voice)",
+        "Profile": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
+      },
+      {
+        "Name": "Samuel L. Jackson",
+        "Character": "Jimbo (voice)",
+        "Profile": "/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
+      },
+      {
+        "Name": "Ricky Gervais",
+        "Character": "Ika Chu (voice)",
+        "Profile": "/z293wonhuF0aYQtg1ROOSl1LObf.jpg"
+      },
+      {
+        "Name": "Kylie Kuioka",
+        "Character": "Emiko (voice)",
+        "Profile": "/xL78pb1Iy9XM3jHO5RVXWjXbSu8.jpg"
+      },
+      {
+        "Name": "Mel Brooks",
+        "Character": "Shogun (voice)",
+        "Profile": "/c21qNcMJlHnRolfhQhZOVacjtwI.jpg"
+      },
+      {
+        "Name": "George Takei",
+        "Character": "Ohga (voice)",
+        "Profile": "/kfpkgfcuxcOrw2OCoAyQpPamQVv.jpg"
+      },
+      {
+        "Name": "Gabriel Iglesias",
+        "Character": "Chuck (voice)",
+        "Profile": "/8Bjy3RZ5TfNs3oUOUpxTv84G01f.jpg"
+      },
+      {
+        "Name": "Djimon Hounsou",
+        "Character": "Sumo (voice)",
+        "Profile": "/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg"
+      },
+      {
+        "Name": "Michelle Yeoh",
+        "Character": "Yuki (voice)",
+        "Profile": "/i6fHvGt7Rb8oVyjjdQVV6vEHB94.jpg"
+      },
+      {
+        "Name": "Aasif Mandvi",
+        "Character": "Ichiro (voice)",
+        "Profile": "/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg"
+      },
+      {
+        "Name": "Cathy Shim",
+        "Character": "Little Mama (voice)",
+        "Profile": "/6c7IArRSBG5TBI01aZJ1DBIciur.jpg"
+      },
+      {
+        "Name": "Stephen Apostolina",
+        "Character": "Additional Voices  (voice)",
+        "Profile": "/lzArKp0G0PNYQ3VrTHFzEigK63e.jpg"
+      }
+    ],
+    "ContentType": "Movie",
+    "Genres": "Animation, Adventure, Comedy, Family, Action",
+    "Language": "en",
+    "Link": "https://terabox.app/s/1tA0kjhP5WKM6Zb8DVTuKWA",
+    "Logo": "/msZ3AkwQMG9OXFhN5ctz5SXvklf.png",
+    "Overview": "A hard-on-his-luck hound finds himself in a town full of cats in need of a hero to defend them from a ruthless villain's wicked plot to wipe their village off the map. With help from a reluctant mentor, our underdog must assume the role of town samurai and team up with the villagers to save the day.",
+    "Poster": "/wMDUDwAArpfGdtTTZ25SfwngGwt.jpg",
+    "PushKey": "-msolzkhza6xop1jo1i",
+    "Runtime": "94",
+    "Size": "500 GB",
+    "Status": "Active",
+    "Tagline": "Time to mark some territory.",
+    "Tags": "Animation, Adventure, Comedy, Family, Action",
+    "Title": "Paws of Fury: The Legend of Hank",
+    "Trailer": "kSg40pdDWgw",
+    "Type": "TMDB",
+    "Views": "0",
+    "Vote": "6.588",
+    "Year": "2022",
+    "imdbID": "tt4428398",
+    "tmdbID": "366672"
+  },
+  {
+    "Adult": "false",
+    "Backdrop": "/7kbrHSRgOVq7EIBW6hcvZg39NMM.jpg",
+    "Cast": [
+      {
+        "Name": "Zhang Yixing",
+        "Character": "Xiao Ma",
+        "Profile": "/wU8ZL6AIWlTHVPat2rfMDOImRMA.jpg"
+      },
+      {
+        "Name": "Li Luo'an",
+        "Character": "Mumu",
+        "Profile": "/6B0Nz7yRdOF4bJ0lcNnNZL8zKek.jpg"
+      },
+      {
+        "Name": "Huang Yao",
+        "Character": "",
+        "Profile": "/9gDCwUWkrWyfJggwLFbqb3UhCke.jpg"
+      },
+      {
+        "Name": "Vivienne Tien",
+        "Character": "",
+        "Profile": "/iIMSjySpkMhgxIm1rzMJb089GUG.jpg"
+      },
+      {
+        "Name": "Zhang Ruonan",
+        "Character": "",
+        "Profile": "/7qFHUBL4qUusjOb4aCACYBKcb6C.jpg"
+      },
+      {
+        "Name": "Yuan Wenkang",
+        "Character": "",
+        "Profile": "/auB9ZHfxdiSoJIYGu1PvblPulTm.jpg"
+      },
+      {
+        "Name": "Ai Liya",
+        "Character": "",
+        "Profile": "/iUp348wZ7ueMF0LXnJUcle4iIjP.jpg"
+      }
+    ],
+    "ContentType": "Movie",
+    "Genres": "Drama, Family",
+    "Language": "zh",
+    "Link": "https://terabox.app/s/1mFHjfL5PKTF28Eazv8GJ2w",
+    "Logo": "",
+    "Overview": "Deaf Xiao Ma and his daughter Mumu rely on each other for companionship. The little \"big sister\" Mumu serves as the family's pillar—bridging communication between her father and the outside world, helping him secure work and earn a living. However, as Mumu grows older, she must integrate into the hearing world, and their inseparable life is about to be disrupted. Just then, a criminal syndicate that specifically preys on the deaf sets its sights on Xiao Ma. Desperate to protect his daughter, he is gradually lured step by step into the abyss of crime...",
+    "Poster": "/7UA6UOgalTC0NX45J4xOssXx6T5.jpg",
+    "PushKey": "-msoly5sv7lrytrsf0m",
+    "Runtime": "111",
+    "Size": "500 GB",
+    "Status": "Active",
+    "Tagline": "My life is worth nothing without my daughter.",
+    "Tags": "Drama, Family",
+    "Title": "Mumu",
+    "Trailer": "ZqD_Ju5rJLw",
+    "Type": "TMDB",
+    "Views": "0",
+    "Vote": "8.5",
+    "Year": "2025",
+    "imdbID": "tt35635579",
+    "tmdbID": "1404734"
+  },
+  {
+    "Adult": "false",
+    "Backdrop": "/5AOEFyxkJ4g7aaOvSaEPhGRzbYA.jpg",
+    "Cast": [
+      {
+        "Name": "Shun Oguri",
+        "Character": "Lupin III",
+        "Profile": "/4tfrhvqp3IGHPATor0lYE9X9UD3.jpg"
+      },
+      {
+        "Name": "Meisa Kuroki",
+        "Character": "Fujiko Mine",
+        "Profile": "/ewKDvLmuDniq2vKtoxqY0ZTxWe5.jpg"
+      },
+      {
+        "Name": "Go Ayano",
+        "Character": "Goemon Ishikawa",
+        "Profile": "/Ap5IuncBMYnABsvkEtsdoM92VTh.jpg"
+      },
+      {
+        "Name": "Tadanobu Asano",
+        "Character": "Koichi Zenigata",
+        "Profile": "/3CBpfGRcPq1jEeYr51TiOiNbZzT.jpg"
+      },
+      {
+        "Name": "Tetsuji Tamayama",
+        "Character": "Daisuke Jigen",
+        "Profile": "/Aaeby9styiUgm3rwbJeefzzSfWI.jpg"
+      },
+      {
+        "Name": "Vithaya Pansringarm",
+        "Character": "Naron",
+        "Profile": "/d27LoRSKh6WBYSQo6MNPNFfB0BQ.jpg"
+      },
+      {
+        "Name": "Rhatha Phongam",
+        "Character": "Miss Vee",
+        "Profile": "/wt4hoBCSl1YTY8pRhPuKlcmH8m0.jpg"
+      },
+      {
+        "Name": "Thanayong Wongtrakul",
+        "Character": "Royal",
+        "Profile": "/AliWyacF1Hn6h9XViCrH6wTLZjH.jpg"
+      },
+      {
+        "Name": "Jerry Yan",
+        "Character": "Michael Lee",
+        "Profile": "/5ZoqL8FGlwqPX4IqFmlNGINN0wz.jpg"
+      },
+      {
+        "Name": "Nirut Sirijanya",
+        "Character": "Momrachiao Pramuk",
+        "Profile": "/4tKGCfBCVoTFd9qqIfZUnYDeBVx.jpg"
+      },
+      {
+        "Name": "Nick Tate",
+        "Character": "Thomas Dawson",
+        "Profile": "/N3wyGlm8JPSaiqdWyO78wAA8GJ.jpg"
+      },
+      {
+        "Name": "Yoshiyuki Yamaguchi",
+        "Character": "Jiro",
+        "Profile": "/bmKnByIOgo0AaOXG0JQTDXpXxZI.jpg"
+      }
+    ],
+    "ContentType": "Movie",
+    "Genres": "Action, Adventure, Comedy, Crime",
+    "Language": "ja",
+    "Link": "https://terabox.app/s/1_PutqkNNe1WlHyWj42gxmw",
+    "Logo": "",
+    "Overview": "Interpol Inspector Zenigata begins a world-wide hunt for the infamous thief Arsène Lupin III, who, with his cavalcade of collaborators infiltrate a highly secured fortress-like safe named the 'Ark of Navarone' to claim the \"Crimson Heart of Cleopatra\".",
+    "Poster": "/2xgRjTYDVFEVQeRUrsbQQtKA6I5.jpg",
+    "PushKey": "-msolvf43s2tqply1ly",
+    "Runtime": "133",
+    "Size": "500 GB",
+    "Status": "Active",
+    "Tagline": "Eyes on the world's most beautiful prize.",
+    "Tags": "Action, Adventure, Comedy, Crime",
+    "Title": "Lupin the 3rd",
+    "Trailer": "m8un2tLnsU4",
+    "Type": "TMDB",
+    "Views": "0",
+    "Vote": "5.973",
+    "Year": "2014",
+    "imdbID": "tt0862748",
+    "tmdbID": "241868"
+  },
+  {
+    "Adult": "false",
+    "Backdrop": "/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg",
+    "Cast": [
+      {
+        "Name": "Jin Sun-kyu",
+        "Character": "Hwang Chung-sik",
+        "Profile": "/toFCyPac5rSpN58p0fsZ7lbogYc.jpg"
+      },
+      {
+        "Name": "Gong Myoung",
+        "Character": "Lee Min-seok",
+        "Profile": "/4c4eiMCgzw6gr4TDzOiODmmTRmG.jpg"
+      },
+      {
+        "Name": "Kim Ji-seok",
+        "Character": "Ma Do-jun",
+        "Profile": "/qMKyA4CJvBNhLRBbjV6s6khlf5e.jpg"
+      },
+      {
+        "Name": "Yoon Kyung-ho",
+        "Character": "Kim Yong-kang",
+        "Profile": "/217cVZqyvJypi4OR1uvxoaJxvLm.jpg"
+      },
+      {
+        "Name": "Kang Han-na",
+        "Character": "Si-nae",
+        "Profile": "/fXydO3AV3arjm3mMPhIxbf26l6a.jpg"
+      },
+      {
+        "Name": "Lee Da-hee",
+        "Character": "Hye-ran",
+        "Profile": "/uaZ0kMQOEKxxtfH9IWecBZ8c4DI.jpg"
+      },
+      {
+        "Name": "Jeon So-min",
+        "Character": "Cho Ah-ra",
+        "Profile": "/eKTdMgKkvMGrrb7Xj8U1EH8ooYu.jpg"
+      },
+      {
+        "Name": "Yoona",
+        "Character": "Yong-kang's Wife",
+        "Profile": "/JzAuAv17bWkLxVtfi9YJvQJhZl.jpg"
+      },
+      {
+        "Name": "Oh Eun-seo",
+        "Character": "Yeon-ju",
+        "Profile": "/ktCfeiyjQ9Qsew9jHYY4AI3HXh4.jpg"
+      },
+      {
+        "Name": "Lee Hyun-gul",
+        "Character": "Messy Hair",
+        "Profile": "/lL7r8bKBBfEYdF2x4rJ70BIYbw2.jpg"
+      },
+      {
+        "Name": "Lee Han-sol",
+        "Character": "Scar",
+        "Profile": "/7Y7fZru4944rwZA4V3C4JJ6Y6ud.jpg"
+      },
+      {
+        "Name": "Kim Yo-han",
+        "Character": "Tight",
+        "Profile": "/eWhB8DN0YQGfIesZNJDzf9k87E5.jpg"
+      }
+    ],
+    "ContentType": "Movie",
+    "Genres": "Comedy, Action",
+    "Language": "ko",
+    "Link": "https://terabox.app/s/14RA8Xyjx6KtIciQSJhdY5Q",
+    "Logo": "/tVnZ8VMyXnROtNtYS1kZLKxmxeP.png",
+    "Overview": "A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescue?",
+    "Poster": "/ciLsGoyr0B8demTLDbLJmEUOHI5.jpg",
+    "PushKey": "-msols981b653ik4j1p",
+    "Runtime": "110",
+    "Size": "500 GB",
+    "Status": "Active",
+    "Tagline": "A chaotic match, a reckless mission.",
+    "Tags": "Comedy, Action",
+    "Title": "Husbands in Action",
+    "Trailer": "PSJgwm2xcbI",
+    "Type": "TMDB",
+    "Views": "0",
+    "Vote": "7.338",
+    "Year": "2026",
+    "imdbID": "tt36876775",
+    "tmdbID": "1451344"
+  },
+  {
+    "Adult": "false",
+    "Backdrop": "/5a4yiRsoiSE4efY5FQKKgd9hZWw.jpg",
+    "Cast": [
+      {
+        "Name": "Jonathan Rhys Meyers",
+        "Character": "Noah Blackwell",
+        "Profile": "/RsrGA98aMmyjTTxTLhAaOqnfLz.jpg"
+      },
+      {
+        "Name": "Joe Pantoliano",
+        "Character": "Collin Carmichael",
+        "Profile": "/3OHUI3nX4SYGGItDk3xqeIvWtIf.jpg"
+      },
+      {
+        "Name": "Jacinda Barrett",
+        "Character": "Samantha Blackwell",
+        "Profile": "/gWiUe9tXD4F3aUxb7NJ3W6aJk3M.jpg"
+      },
+      {
+        "Name": "Mustafa Shakir",
+        "Character": "Frankie Pascarillo",
+        "Profile": "/eeBtCxmlmHguKbeUr2Usx2Jdnj9.jpg"
+      },
+      {
+        "Name": "Sue Jean Kim",
+        "Character": "Soo Mi",
+        "Profile": "/ysLdf9qRjPqUzgHMEUpqhnduVXz.jpg"
+      },
+      {
+        "Name": "Geoffrey Owens",
+        "Character": "Lyle",
+        "Profile": "/PO73VvUgDsAIYY6sdzDw01HFSk.jpg"
+      },
+      {
+        "Name": "Marcella Lentz-Pope",
+        "Character": "ADR voice",
+        "Profile": "/vSzzdPYyGtZGj4RqKsDGdXZN6E0.jpg"
+      },
+      {
+        "Name": "Quinn McColgan",
+        "Character": "Hannah",
+        "Profile": "/5YC84ZSKNjroJMjhelDevnAjBsw.jpg"
+      },
+      {
+        "Name": "Alejandra Rivera Flaviá",
+        "Character": "Gina",
+        "Profile": "/AvK60xtnRo2mza4ADyacuLtNf8d.jpg"
+      },
+      {
+        "Name": "Josh Alscher",
+        "Character": "Jacob Blackwell",
+        "Profile": "/A9zzoXY2hvnjLBduV9b5rSG9bh5.jpg"
+      },
+      {
+        "Name": "Michael Godere",
+        "Character": "Cisco",
+        "Profile": "/cwC5R5ErDsP81Dwo6154Ld5uves.jpg"
+      },
+      {
+        "Name": "Zell Steele Morrow",
+        "Character": "Young Jacob",
+        "Profile": "/m1b4r9v9kVFQlGWZX5BFHMhHjpc.jpg"
+      }
+    ],
+    "ContentType": "Movie",
+    "Genres": "Horror, Thriller, Mystery",
+    "Language": "en",
+    "Link": "https://terabox.app/s/1romnfF5RoWb0YXaUjCJGXg",
+    "Logo": "/99ASkRCTlHrNRSQO9840xxmp1fq.png",
+    "Overview": "Noah is seeking to reconnect with his outcast brother after the death of their father. He hopes to make amends and share the family's fortune, but instead finds himself in a dark underworld that threatens to tear his family apart. As he struggles to maintain his sanity, Noah is led on a terrifying trail to the truth through a series of cryptic clues.",
+    "Poster": "/8vGAAlgJL4BXQVYmwfyMt5nBfjC.jpg",
+    "PushKey": "-msolrflae7bpo8zev0",
+    "Runtime": "84",
+    "Size": "500 GB",
+    "Status": "Active",
+    "Tagline": "",
+    "Tags": "Horror, Thriller, Mystery",
+    "Title": "Hide and Seek",
+    "Trailer": "tfl33EHdWAM",
+    "Type": "TMDB",
+    "Views": "0",
+    "Vote": "4.824",
+    "Year": "2021",
+    "imdbID": "tt7975192",
+    "tmdbID": "801271"
+  },
+  {
+    "Adult": "false",
+    "Backdrop": "/avwEj8wiywFH6FZ6h2wzvyJpiH7.jpg",
+    "Cast": [
+      {
+        "Name": "Ron Perlman",
+        "Character": "Hellboy",
+        "Profile": "/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg"
+      },
+      {
+        "Name": "Selma Blair",
+        "Character": "Elizabeth 'Liz' Sherman",
+        "Profile": "/2rO5eN6hDB0JxMMZHxNKEuMRm1m.jpg"
+      },
+      {
+        "Name": "Doug Jones",
+        "Character": "Abraham 'Abe' Sapien",
+        "Profile": "/rpvvWATYWHGjedJea0G97XufOwU.jpg"
+      },
+      {
+        "Name": "John Hurt",
+        "Character": "Prof. Trevor 'Broom' Bruttenholm",
+        "Profile": "/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
+      },
+      {
+        "Name": "Rupert Evans",
+        "Character": "John Myers",
+        "Profile": "/YrsdSUjinm0NN6qd8Y2znPf8Cg.jpg"
+      },
+      {
+        "Name": "Jeffrey Tambor",
+        "Character": "Tom Manning",
+        "Profile": "/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+      },
+      {
+        "Name": "Ladislav Beran",
+        "Character": "Karl Ruprecht Kroenen",
+        "Profile": "/uxYnIPYBrIdk0cja6XcJ5ui1NvX.jpg"
+      },
+      {
+        "Name": "Bridget Hodson",
+        "Character": "Ilsa Haupstein",
+        "Profile": "/anmhgkEBtJ2TFgKXEqIWv15rj8a.jpg"
+      },
+      {
+        "Name": "Karel Roden",
+        "Character": "Grigori Rasputin",
+        "Profile": "/zfxaI9n2kjlDyJUpSFvawQGV1Hg.jpg"
+      },
+      {
+        "Name": "Brian Steele",
+        "Character": "Sammael",
+        "Profile": "/sG2DRjsLOtwlUeSIOuvOxY3tBWp.jpg"
+      },
+      {
+        "Name": "Corey Johnson",
+        "Character": "Agent Clay",
+        "Profile": "/mhNbf4vGzixPL5mTIOBUPguqvpB.jpg"
+      },
+      {
+        "Name": "Kevin Trainor",
+        "Character": "Young 'Broom'",
+        "Profile": "/7P6J4QGlHojth7VzZ3F8CrILheN.jpg"
+      }
+    ],
+    "ContentType": "Movie",
+    "Genres": "Fantasy, Action",
+    "Language": "en",
+    "Link": "https://terabox.app/s/1HmI_wp_NJxt4aU0Z792WMg",
+    "Logo": "/4Et15vXHzqeYj24w3XMxkE4qkZc.png",
+    "Overview": "In the final days of World War II, the Nazis attempt to use black magic to aid their dying cause. The Allies raid the camp where the ceremony is taking place, but not before they summon a baby demon who is rescued by Allied forces and dubbed \"Hellboy\". Sixty years later, Hellboy serves the cause of good rather than evil as an agent in the Bureau of Paranormal Research & Defense, along with Abe Sapien - a merman with psychic powers, and Liz Sherman - a woman with pyrokinesis, protecting America against dark forces.",
+    "Poster": "/lbaTEneOofwvAyg77R8HbFML2zT.jpg",
+    "PushKey": "-msolpmq3yf5228witi",
+    "Runtime": "122",
+    "Size": "500 GB",
+    "Status": "Active",
+    "Tagline": "From the dark side to our side.",
+    "Tags": "Fantasy, Action",
+    "Title": "Hellboy",
+    "Trailer": "qc4-3QmiFak",
+    "Type": "TMDB",
+    "Views": "0",
+    "Vote": "6.678",
+    "Year": "2004",
+    "imdbID": "tt0167190",
+    "tmdbID": "1487"
+  },
+  {
+    "Adult": "false",
+    "Backdrop": "/gqQKxYVIaYv53Qoy72nQqQxdXYF.jpg",
+    "Cast": [
+      {
+        "Name": "Ron Perlman",
+        "Character": "Hellboy",
+        "Profile": "/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg"
+      },
+      {
+        "Name": "Selma Blair",
+        "Character": "Liz Sherman",
+        "Profile": "/2rO5eN6hDB0JxMMZHxNKEuMRm1m.jpg"
+      },
+      {
+        "Name": "Doug Jones",
+        "Character": "Abe Sapien / Chamberlain / Angel of Death",
+        "Profile": "/rpvvWATYWHGjedJea0G97XufOwU.jpg"
+      },
+      {
+        "Name": "John Alexander",
+        "Character": "Johann Krauss / Bethmoora Goblin",
+        "Profile": "/9YmbNIO0doeR9FoojgGia7VtpJF.jpg"
+      },
+      {
+        "Name": "Seth MacFarlane",
+        "Character": "Johann Krauss (voice)",
+        "Profile": "/8oQJqM51Z0Qtdb7sE6ZfX1peNCB.jpg"
+      },
+      {
+        "Name": "Luke Goss",
+        "Character": "Prince Nuada",
+        "Profile": "/bHdc67gZFzZ7RJmgYbMtfaCOT4R.jpg"
+      },
+      {
+        "Name": "Anna Walton",
+        "Character": "Princess Nuala",
+        "Profile": "/gm1FEUiBGzP8BkOOujoWGFg6G4z.jpg"
+      },
+      {
+        "Name": "Jeffrey Tambor",
+        "Character": "Tom Manning",
+        "Profile": "/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+      },
+      {
+        "Name": "John Hurt",
+        "Character": "Trevor Bruttenholm",
+        "Profile": "/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
+      },
+      {
+        "Name": "James Dodd",
+        "Character": "Johann Krauss",
+        "Profile": "/rph2dBqkS5YeAS1bqYIWrvwqizh.jpg"
+      },
+      {
+        "Name": "Brian Steele",
+        "Character": "Wink / Cronie / Spice Shop Troll / Cathedral Head / Fragglewump",
+        "Profile": "/sG2DRjsLOtwlUeSIOuvOxY3tBWp.jpg"
+      },
+      {
+        "Name": "Andrew Hefler",
+        "Character": "Agent Flint",
+        "Profile": "/vQW6M0xDnDOve8uxu03122k3ieE.jpg"
+      }
+    ],
+    "ContentType": "Movie",
+    "Genres": "Fantasy, Action",
+    "Language": "en",
+    "Link": "https://terabox.app/s/1mLRdbFLM_9-xwcxtX4SjQA",
+    "Logo": "/91dY2oAylteFcEtgpPAnJlVmN16.png",
+    "Overview": "Hellboy, his pyrokinetic girlfriend, Liz, and aquatic empath, Abe Sapien, face their biggest battle when an underworld elven prince plans to reclaim Earth for his magical kindred. Tired of living in the shadow of humans, Prince Nuada tries to awaken an ancient force of killing machines, the all-powerful Golden Army, to clear the way for fantasy creatures to roam free. Only Hellboy can stop the dark prince and prevent humanity's annihilation.",
+    "Poster": "/zO0Wdrxnhx3KoJEvychSmnY3urC.jpg",
+    "PushKey": "-msolim9mdhy99stp0r",
+    "Runtime": "120",
+    "Size": "500 GB",
+    "Status": "Active",
+    "Tagline": "Believe it or not... He's the good guy.",
+    "Tags": "Fantasy, Action",
+    "Title": "Hellboy II: The Golden Army",
+    "Trailer": "Yjivaeh5YOk",
+    "Type": "TMDB",
+    "Views": "0",
+    "Vote": "6.8",
+    "Year": "2008",
+    "imdbID": "tt0411477",
+    "tmdbID": "11253"
+  },
+  {
+    "Adult": "false",
+    "Backdrop": "/5BkSkNtfrnTuKOtTaZhl8avn4wU.jpg",
+    "Cast": [
+      {
+        "Name": "Ron Perlman",
+        "Character": "Hellboy",
+        "Profile": "/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg"
+      },
+      {
+        "Name": "Selma Blair",
+        "Character": "Elizabeth 'Liz' Sherman",
+        "Profile": "/2rO5eN6hDB0JxMMZHxNKEuMRm1m.jpg"
+      },
+      {
+        "Name": "Doug Jones",
+        "Character": "Abraham 'Abe' Sapien",
+        "Profile": "/rpvvWATYWHGjedJea0G97XufOwU.jpg"
+      },
+      {
+        "Name": "John Hurt",
+        "Character": "Prof. Trevor 'Broom' Bruttenholm",
+        "Profile": "/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
+      },
+      {
+        "Name": "Rupert Evans",
+        "Character": "John Myers",
+        "Profile": "/YrsdSUjinm0NN6qd8Y2znPf8Cg.jpg"
+      },
+      {
+        "Name": "Jeffrey Tambor",
+        "Character": "Tom Manning",
+        "Profile": "/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+      },
+      {
+        "Name": "Ladislav Beran",
+        "Character": "Karl Ruprecht Kroenen",
+        "Profile": "/uxYnIPYBrIdk0cja6XcJ5ui1NvX.jpg"
+      },
+      {
+        "Name": "Bridget Hodson",
+        "Character": "Ilsa Haupstein",
+        "Profile": "/anmhgkEBtJ2TFgKXEqIWv15rj8a.jpg"
+      },
+      {
+        "Name": "Karel Roden",
+        "Character": "Grigori Rasputin",
+        "Profile": "/zfxaI9n2kjlDyJUpSFvawQGV1Hg.jpg"
+      },
+      {
+        "Name": "Brian Steele",
+        "Character": "Sammael",
+        "Profile": "/sG2DRjsLOtwlUeSIOuvOxY3tBWp.jpg"
+      },
+      {
+        "Name": "Corey Johnson",
+        "Character": "Agent Clay",
+        "Profile": "/mhNbf4vGzixPL5mTIOBUPguqvpB.jpg"
+      },
+      {
+        "Name": "Kevin Trainor",
+        "Character": "Young 'Broom'",
+        "Profile": "/7P6J4QGlHojth7VzZ3F8CrILheN.jpg"
+      }
+    ],
+    "ContentType": "Movie",
+    "Genres": "Fantasy, Action",
+    "Language": "en",
+    "Link": "https://terabox.app/s/1qdGoA6XdJYyuCmzUo44VOg",
+    "Logo": "/c91wqKXQfSj9K2jO0yJMJf7gXUZ.png",
+    "Overview": "In the final days of World War II, the Nazis attempt to use black magic to aid their dying cause. The Allies raid the camp where the ceremony is taking place, but not before they summon a baby demon who is rescued by Allied forces and dubbed \"Hellboy\". Sixty years later, Hellboy serves the cause of good rather than evil as an agent in the Bureau of Paranormal Research & Defense, along with Abe Sapien - a merman with psychic powers, and Liz Sherman - a woman with pyrokinesis, protecting America against dark forces.",
+    "Poster": "/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg",
+    "PushKey": "-msoli764oxhcbr7ekj",
+    "Runtime": "122",
+    "Size": "500 GB",
+    "Status": "Active",
+    "Tagline": "From the dark side to our side.",
+    "Tags": "Fantasy, Action",
+    "Title": "Hellboy 3",
+    "Trailer": "qc4-3QmiFak",
+    "Type": "TMDB",
+    "Views": "0",
+    "Vote": "6.678",
+    "Year": "2019",
+    "imdbID": "tt0167190",
+    "tmdbID": ""
+  },
+  {
+    "Adult": "false",
     "Backdrop": "/ygcbiJgTQMjnoSLyzKLmzR7u3gN.jpg",
     "Cast": [
       {
