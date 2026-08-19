@@ -1,5 +1,50 @@
 [
   {
+    "id": "31678",
+    "tmdbID": "31678",
+    "title": "Kekkaishi",
+    "Title": "Kekkaishi",
+    "year": "2006",
+    "Year": "2006",
+    "vote": "7.2",
+    "Vote": "7.2",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "Genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "overview": "Yoshimori Sumimura is a 14-year-old student at Karasumori School. Following in the tradition that's come down through the generations, he is the twenty-second Kekkaishi of the Sumimura clan. But he’s constantly fighting with his rival, Tokine Yukimura—his childhood friend and also a Kekkaishi—about who is the rightful heir to the magical barrier arts. Protecting people from danger while growing stronger himself, Yoshimori will battle the forces of evil again tonight!",
+    "Overview": "Yoshimori Sumimura is a 14-year-old student at Karasumori School. Following in the tradition that's come down through the generations, he is the twenty-second Kekkaishi of the Sumimura clan. But he’s constantly fighting with his rival, Tokine Yukimura—his childhood friend and also a Kekkaishi—about who is the rightful heir to the magical barrier arts. Protecting people from danger while growing stronger himself, Yoshimori will battle the forces of evil again tonight!",
+    "poster": "/y9xKKHNCFH0zYa8HDX9mJqnw92l.jpg",
+    "Poster": "/y9xKKHNCFH0zYa8HDX9mJqnw92l.jpg",
+    "backdrop": "/uPnblPIqNiBlHi5NmoBQa6GJCMP.jpg",
+    "Backdrop": "/uPnblPIqNiBlHi5NmoBQa6GJCMP.jpg",
+    "logo": "",
+    "Logo": "",
+    "runtime": "24",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 1,
+    "NumberOfSeasons": "1",
+    "episode_count": 52,
+    "NumberOfEpisodes": "52",
+    "trailer": "",
+    "Trailer": "",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "31730",
     "tmdbID": "31730",
     "title": "Casshern Sins",
@@ -15,11 +60,7 @@
       "Drama",
       "Sci-Fi & Fantasy"
     ],
-    "Genres": [
-      "Animation",
-      "Drama",
-      "Sci-Fi & Fantasy"
-    ],
+    "Genres": "Animation,Drama,Sci-Fi & Fantasy",
     "overview": "After the murder of Luna, the robot society that rules the planet starts to rust and decay. Death and despair spread through the land like wildfire. The only one unaffected by the affliction that becomes known as \"The Ruin\" is Luna's assassin, Casshern. Unable to remember if he really triggered this capital sin against the entire mechanized civilization, Casshern embarks on a journey to unravel the mystery that connects him, Luna, and the plague.",
     "Overview": "After the murder of Luna, the robot society that rules the planet starts to rust and decay. Death and despair spread through the land like wildfire. The only one unaffected by the affliction that becomes known as \"The Ruin\" is Luna's assassin, Casshern. Unable to remember if he really triggered this capital sin against the entire mechanized civilization, Casshern embarks on a journey to unravel the mystery that connects him, Luna, and the plague.",
     "poster": "/y2jzEQ6Yqhw1rHuNANeO0L741zf.jpg",
@@ -1283,7 +1324,7 @@
     "id": "30669",
     "tmdbID": "30669",
     "title": "Yu Yu Hakusho",
-    "Title": "Yu Yu Hakusho",
+    "Title": "Ghost Fighter",
     "year": "1992",
     "Year": "1992",
     "vote": "8.458",
