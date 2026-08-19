@@ -1,5 +1,50 @@
 [
   {
+    "id": "60654",
+    "tmdbID": "60654",
+    "title": "Magi",
+    "Title": "Magi",
+    "year": "2012",
+    "Year": "2012",
+    "vote": "8.227",
+    "Vote": "8.227",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "Genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "overview": "This story is about the flow of fate and the battle to keep the world on the right path. Aladdin is a boy who has set out to explore the world after being trapped in a room for most of his life. His best friend is a flute with a djinn in it named Ugo. Soon enough, Aladdin discovers he is a Magi, a magician who chooses kings, and he was born to choose kings who will follow the righteous path, battling against those who want to destroy fate. Follow his adventures as he meets others from 1001 Arabian Nights, like Ali Baba and Sinbad, and fights to keep the balance of world in check!",
+    "Overview": "This story is about the flow of fate and the battle to keep the world on the right path. Aladdin is a boy who has set out to explore the world after being trapped in a room for most of his life. His best friend is a flute with a djinn in it named Ugo. Soon enough, Aladdin discovers he is a Magi, a magician who chooses kings, and he was born to choose kings who will follow the righteous path, battling against those who want to destroy fate. Follow his adventures as he meets others from 1001 Arabian Nights, like Ali Baba and Sinbad, and fights to keep the balance of world in check!",
+    "poster": "/vshFBPrMazfyjFNbWoRJRbnBhZg.jpg",
+    "Poster": "/vshFBPrMazfyjFNbWoRJRbnBhZg.jpg",
+    "backdrop": "/AcKnrZgsf8ea8NJWdGWlqSYTQBG.jpg",
+    "Backdrop": "/AcKnrZgsf8ea8NJWdGWlqSYTQBG.jpg",
+    "logo": "/n614dL0M8XoT4cN088WoAeYIncV.png",
+    "Logo": "/n614dL0M8XoT4cN088WoAeYIncV.png",
+    "runtime": "24",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 2,
+    "NumberOfSeasons": "2",
+    "episode_count": 50,
+    "NumberOfEpisodes": "50",
+    "trailer": "2E7o26G1T0c",
+    "Trailer": "2E7o26G1T0c",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "31678",
     "tmdbID": "31678",
     "title": "Kekkaishi",
@@ -15,11 +60,7 @@
       "Action & Adventure",
       "Sci-Fi & Fantasy"
     ],
-    "Genres": [
-      "Animation",
-      "Action & Adventure",
-      "Sci-Fi & Fantasy"
-    ],
+    "Genres": "Animation,Action & Adventure,Sci-Fi & Fantasy",
     "overview": "Yoshimori Sumimura is a 14-year-old student at Karasumori School. Following in the tradition that's come down through the generations, he is the twenty-second Kekkaishi of the Sumimura clan. But he’s constantly fighting with his rival, Tokine Yukimura—his childhood friend and also a Kekkaishi—about who is the rightful heir to the magical barrier arts. Protecting people from danger while growing stronger himself, Yoshimori will battle the forces of evil again tonight!",
     "Overview": "Yoshimori Sumimura is a 14-year-old student at Karasumori School. Following in the tradition that's come down through the generations, he is the twenty-second Kekkaishi of the Sumimura clan. But he’s constantly fighting with his rival, Tokine Yukimura—his childhood friend and also a Kekkaishi—about who is the rightful heir to the magical barrier arts. Protecting people from danger while growing stronger himself, Yoshimori will battle the forces of evil again tonight!",
     "poster": "/y9xKKHNCFH0zYa8HDX9mJqnw92l.jpg",
