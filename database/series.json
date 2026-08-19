@@ -1,5 +1,50 @@
 [
   {
+    "id": "31730",
+    "tmdbID": "31730",
+    "title": "Casshern Sins",
+    "Title": "Casshern Sins",
+    "year": "2008",
+    "Year": "2008",
+    "vote": "7.093",
+    "Vote": "7.093",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "Genres": [
+      "Animation",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "overview": "After the murder of Luna, the robot society that rules the planet starts to rust and decay. Death and despair spread through the land like wildfire. The only one unaffected by the affliction that becomes known as \"The Ruin\" is Luna's assassin, Casshern. Unable to remember if he really triggered this capital sin against the entire mechanized civilization, Casshern embarks on a journey to unravel the mystery that connects him, Luna, and the plague.",
+    "Overview": "After the murder of Luna, the robot society that rules the planet starts to rust and decay. Death and despair spread through the land like wildfire. The only one unaffected by the affliction that becomes known as \"The Ruin\" is Luna's assassin, Casshern. Unable to remember if he really triggered this capital sin against the entire mechanized civilization, Casshern embarks on a journey to unravel the mystery that connects him, Luna, and the plague.",
+    "poster": "/y2jzEQ6Yqhw1rHuNANeO0L741zf.jpg",
+    "Poster": "/y2jzEQ6Yqhw1rHuNANeO0L741zf.jpg",
+    "backdrop": "/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
+    "Backdrop": "/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
+    "logo": "/5w6l0JSUV1sexWDoTRqF5ont3SS.png",
+    "Logo": "/5w6l0JSUV1sexWDoTRqF5ont3SS.png",
+    "runtime": "24",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 1,
+    "NumberOfSeasons": "1",
+    "episode_count": 24,
+    "NumberOfEpisodes": "24",
+    "trailer": "dxC2-ZorSrA",
+    "Trailer": "dxC2-ZorSrA",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "Ruin is the salvation of man and machine",
+    "Tagline": "Ruin is the salvation of man and machine",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "33880",
     "tmdbID": "33880",
     "title": "The Legend of Korra",
@@ -15,11 +60,7 @@
       "Action & Adventure",
       "Sci-Fi & Fantasy"
     ],
-    "Genres": [
-      "Animation",
-      "Action & Adventure",
-      "Sci-Fi & Fantasy"
-    ],
+    "Genres": "Animation,Action & Adventure,Sci-Fi & Fantasy",
     "overview": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on her quest to become a fully realized Avatar. In this story, the Avatar struggles to find balance within herself.",
     "Overview": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on her quest to become a fully realized Avatar. In this story, the Avatar struggles to find balance within herself.",
     "poster": "/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
