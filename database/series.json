@@ -1,5 +1,48 @@
 [
   {
+    "id": "126170",
+    "tmdbID": "126170",
+    "title": "Mojakou",
+    "Title": "Mojakou",
+    "year": "1995",
+    "Year": "1995",
+    "vote": "5.5",
+    "Vote": "5.5",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "Genres": [
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "overview": "Sorao is an ordinary student who lives an ordinary everyday life of a typical kid, accidentally makes friends with two aliens stranded here on Earth. His life changes as he decides to help them find a way to get home. When they do reach the aliens' homeworld, Sorao along with Miki, discovered a blood feud between two different tribes. Things gone awry as the tribes' representatives try to out do one another in search of the missing treasure of the past with the help of an uncovered clue.",
+    "Overview": "Sorao is an ordinary student who lives an ordinary everyday life of a typical kid, accidentally makes friends with two aliens stranded here on Earth. His life changes as he decides to help them find a way to get home. When they do reach the aliens' homeworld, Sorao along with Miki, discovered a blood feud between two different tribes. Things gone awry as the tribes' representatives try to out do one another in search of the missing treasure of the past with the help of an uncovered clue.",
+    "poster": "/d71z0WIr9DW68a19aw1w2NFhQtb.jpg",
+    "Poster": "/d71z0WIr9DW68a19aw1w2NFhQtb.jpg",
+    "backdrop": "",
+    "Backdrop": "",
+    "logo": "",
+    "Logo": "",
+    "runtime": "25",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 1,
+    "NumberOfSeasons": "1",
+    "episode_count": 74,
+    "NumberOfEpisodes": "74",
+    "trailer": "",
+    "Trailer": "",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "60654",
     "tmdbID": "60654",
     "title": "Magi",
