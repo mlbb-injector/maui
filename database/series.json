@@ -1,5 +1,48 @@
 [
   {
+    "id": "66077",
+    "tmdbID": "66077",
+    "title": "Tanaka-kun Is Always Listless",
+    "Title": "Tanaka-kun Is Always Listless",
+    "year": "2016",
+    "Year": "2016",
+    "vote": "7.469",
+    "Vote": "7.469",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "Genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "overview": "A lethargic student dozes through class, activities and pretty much everything, frustrating his best friend but attracting the affections of others.",
+    "Overview": "A lethargic student dozes through class, activities and pretty much everything, frustrating his best friend but attracting the affections of others.",
+    "poster": "/q3TdnhtfXh6yfrHuZO0hEmkjjnr.jpg",
+    "Poster": "/q3TdnhtfXh6yfrHuZO0hEmkjjnr.jpg",
+    "backdrop": "/fbUsgV5ofg68iIijsqEhF3kiX4P.jpg",
+    "Backdrop": "/fbUsgV5ofg68iIijsqEhF3kiX4P.jpg",
+    "logo": "/gV1Yyx3WRSLs6uRIEOs9TrEXxOt.png",
+    "Logo": "/gV1Yyx3WRSLs6uRIEOs9TrEXxOt.png",
+    "runtime": "24",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 1,
+    "NumberOfSeasons": "1",
+    "episode_count": 12,
+    "NumberOfEpisodes": "12",
+    "trailer": "5Xk55m-HcLA",
+    "Trailer": "5Xk55m-HcLA",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "61923",
     "tmdbID": "61923",
     "title": "Star vs. the Forces of Evil",
