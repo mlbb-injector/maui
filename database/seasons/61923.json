@@ -9,38 +9,5 @@
     "poster_path": "/udUyr0M5CIMzYvBO28FdsTJkSSK.jpg",
     "id": "64671",
     "vote_average": "7.3"
-  },
-  {
-    "season": "2",
-    "season_number": "2",
-    "name": "Season 2",
-    "overview": "",
-    "air_date": "2016-07-11",
-    "episode_count": "41",
-    "poster_path": "/pbkRWBb8hwLHyn9vq0lC2e80oEZ.jpg",
-    "id": "78220",
-    "vote_average": "7.4"
-  },
-  {
-    "season": "3",
-    "season_number": "3",
-    "name": "Season 3",
-    "overview": "Star returns to her home dimension of Mewni where she discovers that magic is disappearing throughout the kingdom; Star must dig deep and challenge archnemesis Ludo in an effort to save her family and kingdom.",
-    "air_date": "2017-07-15",
-    "episode_count": "38",
-    "poster_path": "/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
-    "id": "90475",
-    "vote_average": "7.6"
-  },
-  {
-    "season": "4",
-    "season_number": "4",
-    "name": "Season 4",
-    "overview": "",
-    "air_date": "2019-03-10",
-    "episode_count": "37",
-    "poster_path": "/n0qelBuHizoYImwv6mMeqq4tITh.jpg",
-    "id": "120625",
-    "vote_average": "7.1"
   }
 ]
