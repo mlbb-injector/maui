@@ -1,5 +1,48 @@
 [
   {
+    "id": "34836",
+    "tmdbID": "34836",
+    "title": "Princess Resurrection",
+    "Title": "Princess Resurrection",
+    "year": "2007",
+    "Year": "2007",
+    "vote": "7.4",
+    "Vote": "7.4",
+    "language": "ja",
+    "Language": "ja",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "Genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "overview": "Princess Resurrection is a Japanese horror comedy manga by Yasunori Mitsunaga. The manga was serialized monthly in Monthly Shōnen Sirius magazine and published by Kodansha. A 26-episode anime series by Madhouse aired on TBS in 2007. Both the manga and anime are available in North America with the manga licensed by Del Rey Manga and the anime licensed by Sentai Filmworks and available on the Anime Network website. A new OVA series has been made by Tatsunoko Production with the first episode released in December 2010, along with the 13th volume of the manga, the second episode for the 14th volume, and the third episode for the 16th volume. A spin-off manga, Naqua-Den, which stars a side-character from Princess Resurrection as the main character, was released in 2012 currently with two volumes.",
+    "Overview": "Princess Resurrection is a Japanese horror comedy manga by Yasunori Mitsunaga. The manga was serialized monthly in Monthly Shōnen Sirius magazine and published by Kodansha. A 26-episode anime series by Madhouse aired on TBS in 2007. Both the manga and anime are available in North America with the manga licensed by Del Rey Manga and the anime licensed by Sentai Filmworks and available on the Anime Network website. A new OVA series has been made by Tatsunoko Production with the first episode released in December 2010, along with the 13th volume of the manga, the second episode for the 14th volume, and the third episode for the 16th volume. A spin-off manga, Naqua-Den, which stars a side-character from Princess Resurrection as the main character, was released in 2012 currently with two volumes.",
+    "poster": "/qkGgg9my8ypx7D7pH9VwXyPiNGL.jpg",
+    "Poster": "/qkGgg9my8ypx7D7pH9VwXyPiNGL.jpg",
+    "backdrop": "/yq3TGBLuXlxOlkJW8UXG2edUGVF.jpg",
+    "Backdrop": "/yq3TGBLuXlxOlkJW8UXG2edUGVF.jpg",
+    "logo": "/nBxv8Ni91PWK7h1ji6OCs8I6Oi0.png",
+    "Logo": "/nBxv8Ni91PWK7h1ji6OCs8I6Oi0.png",
+    "runtime": "24",
+    "status": "Ended",
+    "SeriesStatus": "Ended",
+    "season_count": 1,
+    "NumberOfSeasons": "1",
+    "episode_count": 26,
+    "NumberOfEpisodes": "26",
+    "trailer": "",
+    "Trailer": "",
+    "adult": "false",
+    "Adult": "false",
+    "tagline": "",
+    "Tagline": "",
+    "tags": "",
+    "Tags": ""
+  },
+  {
     "id": "14578",
     "tmdbID": "14578",
     "title": "The Adventures of Peter Pan",
